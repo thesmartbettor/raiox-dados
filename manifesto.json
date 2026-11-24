@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-11-24T17:09:22-03:00",
+ "gerado_em": "2026-11-24T17:09:54-03:00",
  "data_brasilia": "2026-11-24",
  "fuso": "America/Sao_Paulo (UTC-3)",
- "fonte": "bases do projeto CÉREBRO; sem odds",
+ "fonte": "bases do projeto CÉREBRO; só estatística de futebol",
  "observacoes": [],
  "pacote_origem": "2026-11-24T06:26:23-03:00",
  "jogos_hoje": 23,
@@ -36,8 +36,8 @@
  },
  "arquivos": {
   "README.md": {
-   "bytes": 3346,
-   "sha1": "a92095bfe6f5f50553368563a8d45bc0e3c37d80"
+   "bytes": 3332,
+   "sha1": "b08cd88985e54fa3b839ba0b1be0f1118b2d4885"
   },
   "dados/agenda.csv": {
    "bytes": 7147447,
@@ -49,7 +49,7 @@
   },
   "dados/atualizacao.csv": {
    "bytes": 143,
-   "sha1": "a0b5e8d63640dc5bad2e18bcb7fa8d2fa24c9790"
+   "sha1": "adc8906e325feda309e192c4aa32f8ff092c83b2"
   },
   "dados/jogador_partida.csv": {
    "bytes": 10794546,
@@ -60,12 +60,12 @@
    "sha1": "7773d2f3ce7c5123653797146be7f8d828778018"
   },
   "hoje.json": {
-   "bytes": 66468,
-   "sha1": "2c5fcebdd125921de97bbf293af4a7a0e6bd3f62"
+   "bytes": 66487,
+   "sha1": "337a7ab8e71def05b1f2af0dfc215a9e9bb96b8e"
   },
   "hoje.md": {
-   "bytes": 4909,
-   "sha1": "bb8f4da9a3f945fe1ec36995bb5b9b373d0d8be8"
+   "bytes": 4881,
+   "sha1": "4e70063c4540cd69544a2c6e7f4074a7c1f3abff"
   }
  }
 }

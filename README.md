@@ -1,6 +1,6 @@
 # Raio-X do Jogo: dados de futebol
 
-Atualizado todo dia por volta das 6h30 (horário de Brasília). Só estatística de futebol: **sem odds, sem nada de apostas, sem chaves**.
+Atualizado todo dia por volta das 6h30 (horário de Brasília). Só estatística de futebol (resultados, agenda e jogadores).
 
 ## Para ler todo dia
 
