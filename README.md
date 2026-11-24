@@ -42,3 +42,56 @@ Atenção: o Understat está fora do ar desde 03/11/2026; o último jogo é de 3
 ## Histórico
 
 Cada dia é um commit. Para ver um dia antigo, abra o histórico de commits do arquivo no GitHub.
+
+## Como rodar
+
+Os scripts que geram o conteúdo do Raio-X do Jogo ficam em `scripts/` e leem os CSV de `dados/` deste repositório. Eles são atualizados no mesmo commit diário dos dados.
+
+```
+git clone https://github.com/thesmartbettor/raiox-dados && cd raiox-dados
+pip install -r requirements.txt        # Python 3.11+
+```
+
+**Conteúdo da manhã** de um dia (rodar depois da atualização das 6h30):
+
+```
+python3 scripts/gerar_posts.py --data AAAA-MM-DD
+```
+
+Grava em `saida/AAAA-MM-DD/`: `posts.json` (tudo: jogos, curiosidades checadas, posts do X, legenda e cartões), `x.txt` (posts do X com horário), `instagram_legenda.txt`, `cartoes/*.jpg` (carrossel 1080x1350 e `x_capa.jpg`) e `previa.html`. Opções: `--sem-cartoes`, `--max-jogos 7`, `--max-posts 5`. Não precisa de nenhuma chave.
+
+**Encerramento** do dia (depois dos jogos; confere cada curiosidade publicada com o placar final):
+
+```
+python3 scripts/encerramento.py --data AAAA-MM-DD --horario   # imprime o horário (Brasília) para rodar
+python3 scripts/encerramento.py --data AAAA-MM-DD             # gera o texto e o cartão
+python3 scripts/encerramento.py --data AAAA-MM-DD --publicar  # gera e posta no X (exige o dia aprovado)
+```
+
+Lê `saida/AAAA-MM-DD/posts.json` da manhã e grava `saida/AAAA-MM-DD/cartoes/fechamento.jpg` e o texto do post. Usa a TheStatsAPI para os placares.
+
+**Publicação e aprovação** (opcionais):
+
+```
+python3 scripts/telegram_aprovacao.py enviar --data AAAA-MM-DD        # prévia e botões no Telegram
+python3 scripts/telegram_aprovacao.py esperar --data AAAA-MM-DD --ate 10:50
+python3 scripts/publicar.py aprovar --data AAAA-MM-DD                 # cria saida/AAAA-MM-DD/aprovado.json
+python3 scripts/publicar.py x --data AAAA-MM-DD --pendentes           # posta no X os posts cujo horário chegou
+python3 scripts/publicar.py instagram --data AAAA-MM-DD               # carrossel do Instagram
+```
+
+Nada é publicado sem `aprovado.json`. O que já saiu fica em `saida/AAAA-MM-DD/publicados.json`, para não publicar duas vezes.
+
+**Variáveis de ambiente** (só os nomes; nenhuma chave fica no repositório):
+
+| Variável | Usada por |
+|---|---|
+| `RAIOX_BASE` | opcional: pasta com `dados/` (padrão: raiz do repositório) |
+| `RAIOX_SAIDA` | opcional: onde gravar a saída (padrão: `saida/` na raiz) |
+| `THESTATSAPI_KEY` | `encerramento.py` |
+| `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET` | `publicar.py x`, `encerramento.py --publicar` |
+| `IG_ACCESS_TOKEN`, `IMGBB_API_KEY` | `publicar.py instagram` (renovar o token: `publicar.py renovar-ig`) |
+| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | `telegram_aprovacao.py` |
+| `RAIOX_REVISAO_URL` | opcional: link da página de revisão na mensagem do Telegram |
+
+Arquivos em `scripts/`: `gerar_posts.py` (principal), `curiosidades.py` (sequências, confronto direto, jogadores), `checagem.py` (recalcula cada número por outro caminho), `nomes.py` (liga os nomes da agenda aos do histórico, grava `dados/apelidos_times.csv`), `regras_x.py` (limites de texto do X), `cartoes.py` (imagens), `previa.py`, `encerramento.py`, `publicar.py`, `telegram_aprovacao.py`, `montar_revisao.py`, `caminhos.py` e `fontes/` (Inter Display, licença OFL).

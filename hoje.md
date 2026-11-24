@@ -1,6 +1,6 @@
 # Futebol: jogos de 24/11/2026 e resultados de 23/11/2026
 
-Gerado em 24/11/2026 17:09 (Brasília). Horários de Brasília.
+Gerado em 24/11/2026 17:27 (Brasília). Horários de Brasília.
 
 ## Jogos de hoje (23)
 

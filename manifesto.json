@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T17:09:54-03:00",
+ "gerado_em": "2026-11-24T17:27:40-03:00",
  "data_brasilia": "2026-11-24",
  "fuso": "America/Sao_Paulo (UTC-3)",
  "fonte": "bases do projeto CÉREBRO; só estatística de futebol",
@@ -35,9 +35,13 @@
   }
  },
  "arquivos": {
+  ".gitignore": {
+   "bytes": 26,
+   "sha1": "6dd53598c04e6679cb4d4e6681849f0fff1b51b0"
+  },
   "README.md": {
-   "bytes": 3332,
-   "sha1": "b08cd88985e54fa3b839ba0b1be0f1118b2d4885"
+   "bytes": 6548,
+   "sha1": "79a725951f67b356e61e757dbcc977da096fcff2"
   },
   "dados/agenda.csv": {
    "bytes": 7147447,
@@ -49,7 +53,7 @@
   },
   "dados/atualizacao.csv": {
    "bytes": 143,
-   "sha1": "adc8906e325feda309e192c4aa32f8ff092c83b2"
+   "sha1": "6e67dba72c5b520e943ea3fbaa614e198f45bba5"
   },
   "dados/jogador_partida.csv": {
    "bytes": 10794546,
@@ -61,11 +65,91 @@
   },
   "hoje.json": {
    "bytes": 66487,
-   "sha1": "337a7ab8e71def05b1f2af0dfc215a9e9bb96b8e"
+   "sha1": "94737cfe57b55e2f6bd569806280d9f77ba51377"
   },
   "hoje.md": {
    "bytes": 4881,
-   "sha1": "4e70063c4540cd69544a2c6e7f4074a7c1f3abff"
+   "sha1": "e44a1c97c2404aee84c384fe0c5334690b3c74e1"
+  },
+  "requirements.txt": {
+   "bytes": 131,
+   "sha1": "52db33cf813b0c114ee847e04a38a798df43c55f"
+  },
+  "scripts/caminhos.py": {
+   "bytes": 795,
+   "sha1": "19bdde2b8f158940af8e2928eec8455b869ebce0"
+  },
+  "scripts/cartoes.py": {
+   "bytes": 13663,
+   "sha1": "0346d0a8f5112fd495c9a6253f49bf951106c9d3"
+  },
+  "scripts/checagem.py": {
+   "bytes": 6338,
+   "sha1": "1ef8a9deeb8e841993ec91ac04b935dd6fc144ad"
+  },
+  "scripts/curiosidades.py": {
+   "bytes": 14539,
+   "sha1": "0e2fa2833d5b5aa352e78b9d5836830b58cc4e95"
+  },
+  "scripts/encerramento.py": {
+   "bytes": 10412,
+   "sha1": "3ff09ca910f0d9b5d83645294a8d899fffde9868"
+  },
+  "scripts/fontes/InterDisplay-Black.otf": {
+   "bytes": 617468,
+   "sha1": "00c2da2432d2a918301146d9bce5d7f69d49326a"
+  },
+  "scripts/fontes/InterDisplay-Bold.otf": {
+   "bytes": 623440,
+   "sha1": "987179a58308ee72e94cc5faaf6072ecaff863bf"
+  },
+  "scripts/fontes/InterDisplay-ExtraBold.otf": {
+   "bytes": 624384,
+   "sha1": "3a3f0ec99c68d85db3dfe95dcceb947721397243"
+  },
+  "scripts/fontes/InterDisplay-Medium.otf": {
+   "bytes": 617500,
+   "sha1": "051613fb412430d5607652ea940c41b92fefdbdd"
+  },
+  "scripts/fontes/InterDisplay-Regular.otf": {
+   "bytes": 602892,
+   "sha1": "c9c3b299e74a0a09855c5c5e00b8605cf04a8726"
+  },
+  "scripts/fontes/InterDisplay-SemiBold.otf": {
+   "bytes": 619088,
+   "sha1": "9620f787d0c3682e62769cd64c1cf069345c4d51"
+  },
+  "scripts/fontes/OFL.txt": {
+   "bytes": 4007,
+   "sha1": "c114a257cbb33b80319734920be567b5404cf5a1"
+  },
+  "scripts/gerar_posts.py": {
+   "bytes": 13980,
+   "sha1": "e2a86f7802f1837410dc82d35cc3d0213b801cad"
+  },
+  "scripts/montar_revisao.py": {
+   "bytes": 6187,
+   "sha1": "45d66990d1ff57531f9ead019f4cf140d6c94715"
+  },
+  "scripts/nomes.py": {
+   "bytes": 7462,
+   "sha1": "733935fbaa90cd380cee28d3e20b4f359abc12f6"
+  },
+  "scripts/previa.py": {
+   "bytes": 1249,
+   "sha1": "2fa43d9c40eed7b02d90f308e79751eb7f31362e"
+  },
+  "scripts/publicar.py": {
+   "bytes": 9856,
+   "sha1": "db492aa33c47f150044d68e578cc6fcf2ba675c1"
+  },
+  "scripts/regras_x.py": {
+   "bytes": 1543,
+   "sha1": "70887f2591cb31a096e107de12f4c6838c57da65"
+  },
+  "scripts/telegram_aprovacao.py": {
+   "bytes": 9946,
+   "sha1": "6b5c85feb9aa7c0c8f116b5d7dada350e46904c7"
   }
  }
 }
