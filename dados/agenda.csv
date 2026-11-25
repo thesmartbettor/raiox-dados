@@ -740,10 +740,10 @@ mt_022530411,comp_0196,League One,sn_3014087,16,finished,2026-11-21T15:00:00Z,No
 mt_466284706,comp_0196,League One,sn_3014087,16,finished,2026-11-21T15:00:00Z,Mansfield Town,Milton Keynes Dons,tm_1882,tm_0469,1,1,1
 mt_644096323,comp_0196,League One,sn_3014087,16,finished,2026-11-21T15:00:00Z,Oxford United,Wycombe Wanderers,tm_4558,tm_9495,4,3,1
 mt_377413861,comp_0196,League One,sn_3014087,16,finished,2026-11-21T15:00:00Z,Plymouth Argyle,Peterborough United,tm_2124,tm_0976,0,2,1
-mt_890939975,comp_0196,League One,sn_3014087,9,scheduled,2026-11-24T19:45:00Z,Blackpool,Leicester City,tm_3489,tm_2064,,,0
-mt_156559516,comp_0196,League One,sn_3014087,8,scheduled,2026-11-24T19:45:00Z,Stevenage,Sheffield Wednesday,tm_5749,tm_9685,,,0
-mt_371718620,comp_0196,League One,sn_3014087,8,scheduled,2026-11-24T19:45:00Z,Bradford City,Barnsley,tm_9715,tm_5840,,,0
-mt_023073532,comp_0196,League One,sn_3014087,9,scheduled,2026-11-24T19:45:00Z,Bromley,Wycombe Wanderers,tm_1994,tm_9495,,,0
+mt_890939975,comp_0196,League One,sn_3014087,9,finished,2026-11-24T19:45:00Z,Blackpool,Leicester City,tm_3489,tm_2064,1,1,1
+mt_156559516,comp_0196,League One,sn_3014087,8,finished,2026-11-24T19:45:00Z,Stevenage,Sheffield Wednesday,tm_5749,tm_9685,0,0,1
+mt_371718620,comp_0196,League One,sn_3014087,8,finished,2026-11-24T19:45:00Z,Bradford City,Barnsley,tm_9715,tm_5840,3,0,1
+mt_023073532,comp_0196,League One,sn_3014087,9,finished,2026-11-24T19:45:00Z,Bromley,Wycombe Wanderers,tm_1994,tm_9495,1,1,1
 mt_155861091,comp_0196,League One,sn_3014087,17,scheduled,2026-11-26T20:00:00Z,Doncaster Rovers,Huddersfield Town,tm_0872,tm_7058,,,0
 mt_022530422,comp_0196,League One,sn_3014087,17,scheduled,2026-11-28T12:30:00Z,Milton Keynes Dons,Notts County,tm_0469,tm_6527,,,0
 mt_377413872,comp_0196,League One,sn_3014087,17,scheduled,2026-11-28T12:30:00Z,Peterborough United,Cambridge United,tm_0976,tm_5960,,,0
@@ -7954,7 +7954,7 @@ mt_511561328,comp_0976,LaLiga 2,sn_1368511,14,finished,2026-11-15T17:30:00Z,Eiba
 mt_733713025,comp_0976,LaLiga 2,sn_1368511,14,finished,2026-11-16T19:30:00Z,Albacete Balompié,Celta Vigo B,tm_89845,tm_645438,1,0,1
 mt_514969243,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-20T19:30:00Z,FC Andorra,Leganés,tm_2766781,tm_46455,1,3,1
 mt_466496166,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-21T13:00:00Z,CE Sabadell,Granada,tm_461664,tm_752314,1,1,1
-mt_022072921,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-21T15:15:00Z,Real Sociedad B,Cádiz,tm_157577,tm_86496,0,3,0
+mt_022072921,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-21T15:15:00Z,Real Sociedad B,Cádiz,tm_157577,tm_86496,0,3,1
 mt_377357271,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-21T17:30:00Z,CD Castellón,CD Eldense,tm_32315,tm_219292,2,0,1
 mt_022072942,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-21T20:00:00Z,CD Tenerife,Mallorca,tm_98332,tm_64068,0,0,1
 mt_511561948,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T13:00:00Z,Córdoba,Real Oviedo,tm_15137,tm_20291,3,0,1
@@ -7962,7 +7962,7 @@ mt_988908416,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T15:15:00Z,Spor
 mt_200230852,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T17:30:00Z,Celta Vigo B,Real Valladolid,tm_645438,tm_20127,1,1,1
 mt_200230863,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T17:30:00Z,Girona FC,Eibar,tm_029137,tm_73719,2,1,1
 mt_644684543,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T20:00:00Z,Burgos Club de Fútbol,Albacete Balompié,tm_02018,tm_89845,1,0,1
-mt_022072532,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-23T19:30:00Z,AD Ceuta,Almería,tm_73736,tm_89830,2,3,0
+mt_022072532,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-23T19:30:00Z,AD Ceuta,Almería,tm_73736,tm_89830,2,3,1
 mt_200230151,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-27T19:30:00Z,Leganés,CE Sabadell,tm_46455,tm_461664,,,0
 mt_899829657,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-28T13:00:00Z,Las Palmas,FC Andorra,tm_305504,tm_2766781,,,0
 mt_644684539,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-28T15:15:00Z,Albacete Balompié,CD Tenerife,tm_89845,tm_98332,,,0
@@ -20540,8 +20540,8 @@ mt_644058152,comp_4023,League Two,sn_8407455,16,finished,2026-11-21T15:00:00Z,No
 mt_377425027,comp_4023,League Two,sn_8407455,16,finished,2026-11-21T15:00:00Z,Oldham Athletic,Exeter City,tm_4203,tm_6189,1,1,1
 mt_733601205,comp_4023,League Two,sn_8407455,16,finished,2026-11-21T15:00:00Z,Tranmere Rovers,Colchester United,tm_2784,tm_6047,2,1,1
 mt_988340649,comp_4023,League Two,sn_8407455,16,finished,2026-11-21T15:00:00Z,York City,Walsall,tm_5570,tm_6267,0,0,1
-mt_023234135,comp_4023,League Two,sn_8407455,8,scheduled,2026-11-24T19:45:00Z,Crawley Town,Barnet,tm_41151,tm_3319,,,0
-mt_023403233,comp_4023,League Two,sn_8407455,8,scheduled,2026-11-24T19:45:00Z,Port Vale,Northampton Town,tm_4153,tm_3279,,,0
+mt_023234135,comp_4023,League Two,sn_8407455,8,finished,2026-11-24T19:45:00Z,Crawley Town,Barnet,tm_41151,tm_3319,0,0,0
+mt_023403233,comp_4023,League Two,sn_8407455,8,finished,2026-11-24T19:45:00Z,Port Vale,Northampton Town,tm_4153,tm_3279,1,1,1
 mt_155874377,comp_4023,League Two,sn_8407455,17,scheduled,2026-11-28T12:30:00Z,Bristol Rovers,Tranmere Rovers,tm_6637,tm_2784,,,0
 mt_511936796,comp_4023,League Two,sn_8407455,17,scheduled,2026-11-28T12:30:00Z,Exeter City,Crawley Town,tm_6189,tm_41151,,,0
 mt_899762465,comp_4023,League Two,sn_8407455,17,scheduled,2026-11-28T15:00:00Z,Crewe Alexandra,Grimsby Town,tm_7428,tm_8321,,,0
@@ -22759,6 +22759,7 @@ mt_156181536,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11
 mt_029770793,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,scheduled,2026-11-26T00:00:00Z,Boca Juniors,Independiente Rivadavia,tm_91813,tm_922132,,,0
 mt_984686312,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Rosario Central,Barracas Central,tm_38728,tm_8442265,,,0
 mt_513717923,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Vélez Sarsfield,CA Independiente,tm_85905,tm_79355,,,0
+mt_730294323,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Instituto De Córdoba,River Plate,tm_32231,tm_26071,,,0
 mt_363867823,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-11T18:30:00Z,Aldosivi,Central Córdoba,tm_699356,tm_6118804,0,0,1
 mt_191095089,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-11T23:00:00Z,Talleres,San Lorenzo,tm_10567,tm_26068,1,2,1
 mt_979178131,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-12T19:00:00Z,Rosario Central,Godoy Cruz,tm_38728,tm_00100,1,1,1
@@ -27880,7 +27881,7 @@ mt_517367142,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-22T2
 mt_370250713,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-23T22:30:00Z,Internacional,Vitória,tm_62523,tm_97470,2,5,1
 mt_153743563,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-23T23:00:00Z,Botafogo,São Paulo,tm_83640,tm_25869,1,1,1
 mt_209839075,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-24T00:00:00Z,Santos,Grêmio,tm_83636,tm_66113,0,2,1
-mt_153743585,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-24T21:00:00Z,Chapecoense,Palmeiras,tm_460410,tm_58387,,,0
+mt_153743585,comp_4795,Brasileirão Série A,sn_8459352,37,finished,2026-11-24T21:00:00Z,Chapecoense,Palmeiras,tm_460410,tm_58387,3,0,1
 mt_028978233,comp_4795,Brasileirão Série A,sn_8459352,36,scheduled,2026-11-25T23:00:00Z,Atlético Mineiro,Corinthians,tm_36272,tm_36208,,,0
 mt_153743579,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-26T23:00:00Z,São Paulo,Remo,tm_25869,tm_97432,,,0
 mt_209839080,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-27T23:00:00Z,Fluminense,Cruzeiro,tm_25892,tm_01988,,,0
@@ -28401,12 +28402,12 @@ mt_150999586,comp_5450,Serie B,sn_3025358,12,finished,2026-11-21T16:15:00Z,Catan
 mt_206555018,comp_5450,Serie B,sn_3025358,12,finished,2026-11-21T18:30:00Z,Empoli,Pisa,tm_46168,tm_37240,0,1,1
 mt_895333979,comp_5450,Serie B,sn_3025358,12,finished,2026-11-22T14:00:00Z,Avellino,Mantova,tm_15775,tm_15838,4,1,1
 mt_643222401,comp_5450,Serie B,sn_3025358,12,finished,2026-11-22T16:15:00Z,Arezzo,Padova,tm_20886,tm_20817,1,1,1
-mt_739444375,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-24T18:00:00Z,Juve Stabia,Catanzaro,tm_05193,tm_64035,,,0
-mt_643222462,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-24T19:00:00Z,Benevento,Empoli,tm_73615,tm_46168,,,0
-mt_378666737,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-24T19:00:00Z,Cesena,Ascoli,tm_98434,tm_37274,,,0
-mt_150999517,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-24T19:00:00Z,L.R. Vicenza,Carrarese,tm_98421,tm_46149,,,0
-mt_512888266,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-24T19:00:00Z,Palermo,Südtirol,tm_46171,tm_15847,,,0
-mt_467000790,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-24T19:00:00Z,Virtus Entella,Hellas Verona,tm_176195,tm_20809,,,0
+mt_739444375,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T18:00:00Z,Juve Stabia,Catanzaro,tm_05193,tm_64035,1,3,1
+mt_643222462,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,Benevento,Empoli,tm_73615,tm_46168,5,0,1
+mt_378666737,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,Cesena,Ascoli,tm_98434,tm_37274,5,1,1
+mt_150999517,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,L.R. Vicenza,Carrarese,tm_98421,tm_46149,0,1,1
+mt_512888266,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,Palermo,Südtirol,tm_46171,tm_15847,4,1,1
+mt_467000790,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,Virtus Entella,Hellas Verona,tm_176195,tm_20809,2,1,1
 mt_895333985,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-25T18:00:00Z,Cremonese,Avellino,tm_20131,tm_15775,,,0
 mt_206555021,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-25T19:00:00Z,Mantova,Arezzo,tm_15838,tm_20886,,,0
 mt_981777899,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-25T19:00:00Z,Padova,Sampdoria,tm_20817,tm_20865,,,0
@@ -33799,8 +33800,8 @@ mt_644080304,comp_6387,Scottish Premiership,sn_8406037,14,finished,2026-11-21T15
 mt_899727570,comp_6387,Scottish Premiership,sn_8406037,14,finished,2026-11-21T15:00:00Z,Kilmarnock,Aberdeen,tm_37034,tm_46091,2,4,1
 mt_988303149,comp_6387,Scottish Premiership,sn_8406037,14,finished,2026-11-21T17:45:00Z,Dundee FC,Heart of Midlothian,tm_37653,tm_51862,0,8,1
 mt_733616960,comp_6387,Scottish Premiership,sn_8406037,14,finished,2026-11-21T20:00:00Z,Motherwell,Rangers,tm_64165,tm_20535,1,2,1
-mt_207572622,comp_6387,Scottish Premiership,sn_8406037,12,scheduled,2026-11-24T19:45:00Z,Hibernian,Dundee FC,tm_02173,tm_37653,,,0
-mt_200131678,comp_6387,Scottish Premiership,sn_8406037,12,scheduled,2026-11-24T20:00:00Z,Rangers,Aberdeen,tm_20535,tm_46091,,,0
+mt_207572622,comp_6387,Scottish Premiership,sn_8406037,12,finished,2026-11-24T19:45:00Z,Hibernian,Dundee FC,tm_02173,tm_37653,2,1,1
+mt_200131678,comp_6387,Scottish Premiership,sn_8406037,12,finished,2026-11-24T20:00:00Z,Rangers,Aberdeen,tm_20535,tm_46091,3,2,1
 mt_155848088,comp_6387,Scottish Premiership,sn_8406037,15,scheduled,2026-11-28T15:00:00Z,Aberdeen,Dundee FC,tm_46091,tm_37653,,,0
 mt_200131612,comp_6387,Scottish Premiership,sn_8406037,15,scheduled,2026-11-28T15:00:00Z,Dundee United,St. Johnstone,tm_73411,tm_89488,,,0
 mt_644080363,comp_6387,Scottish Premiership,sn_8406037,15,scheduled,2026-11-28T15:00:00Z,St. Mirren,Kilmarnock,tm_73422,tm_37034,,,0
@@ -37198,14 +37199,14 @@ mt_377417523,comp_8321,Championship,sn_3014533,16,finished,2026-11-21T15:00:00Z,
 mt_899709272,comp_8321,Championship,sn_3014533,16,finished,2026-11-21T15:00:00Z,West Ham United,Preston North End,tm_3809,tm_2504,1,1,1
 mt_733653162,comp_8321,Championship,sn_3014533,16,finished,2026-11-21T15:00:00Z,Wolverhampton,Charlton Athletic,tm_5104,tm_3169,2,1,1
 mt_733653101,comp_8321,Championship,sn_3014533,16,finished,2026-11-22T12:00:00Z,Burnley,Blackburn Rovers,tm_6573,tm_6917,2,2,1
-mt_155865489,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T19:45:00Z,Bristol City,Wrexham,tm_8651,tm_0586,,,0
-mt_200170310,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T19:45:00Z,Cardiff City,Preston North End,tm_2814,tm_2504,,,0
-mt_988328031,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T19:45:00Z,Charlton Athletic,Lincoln City,tm_3169,tm_9667,,,0
-mt_511941694,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T19:45:00Z,Middlesbrough,Swansea City,tm_6387,tm_0016,,,0
-mt_022532759,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T19:45:00Z,Norwich City,Queens Park Rangers,tm_5188,tm_2949,,,0
-mt_466286922,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T19:45:00Z,Portsmouth,West Ham United,tm_9756,tm_3809,,,0
-mt_644094806,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T19:45:00Z,Sheffield United,Southampton,tm_4513,tm_4893,,,0
-mt_377417535,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-24T20:00:00Z,Wolverhampton,Derby County,tm_5104,tm_3759,,,0
+mt_155865489,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Bristol City,Wrexham,tm_8651,tm_0586,1,1,1
+mt_200170310,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Cardiff City,Preston North End,tm_2814,tm_2504,0,4,1
+mt_988328031,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Charlton Athletic,Lincoln City,tm_3169,tm_9667,4,0,1
+mt_511941694,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Middlesbrough,Swansea City,tm_6387,tm_0016,2,1,1
+mt_022532759,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Norwich City,Queens Park Rangers,tm_5188,tm_2949,1,1,1
+mt_466286922,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Portsmouth,West Ham United,tm_9756,tm_3809,1,0,1
+mt_644094806,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Sheffield United,Southampton,tm_4513,tm_4893,1,1,1
+mt_377417535,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T20:00:00Z,Wolverhampton,Derby County,tm_5104,tm_3759,3,0,1
 mt_155869000,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-25T19:45:00Z,Bolton Wanderers,West Bromwich Albion,tm_4830,tm_8814,,,0
 mt_200175667,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-25T19:45:00Z,Burnley,Birmingham City,tm_6573,tm_7218,,,0
 mt_466280789,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-25T19:45:00Z,Watford,Blackburn Rovers,tm_0196,tm_6917,,,0
@@ -55680,7 +55681,7 @@ mt_372528252,comp_9799,MLS,sn_8454787,,finished,2026-11-22T21:00:00Z,Nashville S
 mt_890868793,comp_9799,MLS,sn_8454787,,finished,2026-11-22T23:30:00Z,Chicago Fire,Charlotte FC,tm_46646,tm_8670388,1,2,1
 mt_461917197,comp_9799,MLS,sn_8454787,,finished,2026-11-23T01:30:00Z,Vancouver Whitecaps,Real Salt Lake,tm_155376,tm_59611,2,0,1
 mt_371323486,comp_9799,MLS,sn_8454787,,finished,2026-11-24T01:15:00Z,St.Louis City,Los Angeles FC,tm_5357142,tm_1068777,3,2,1
-mt_023090520,comp_9799,MLS,sn_8454787,,scheduled,2026-11-25T03:00:00Z,San Jose Earthquakes,Houston Dynamo,tm_460479,tm_89986,,,0
+mt_023090520,comp_9799,MLS,sn_8454787,,finished,2026-11-25T03:30:00Z,San Jose Earthquakes,Houston Dynamo,tm_460479,tm_89986,2,1,1
 mt_735707633,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T01:00:00Z,Columbus Crew,Inter Miami CF,tm_02201,tm_9241098,,,0
 mt_029794972,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T03:00:00Z,Real Salt Lake,Vancouver Whitecaps,tm_59611,tm_155376,,,0
 mt_207282107,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T17:30:00Z,Charlotte FC,Chicago Fire,tm_8670388,tm_46646,,,0

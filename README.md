@@ -60,14 +60,6 @@ python3 scripts/gerar_posts.py --data AAAA-MM-DD
 
 Grava em `saida/AAAA-MM-DD/`: `posts.json` (tudo: jogos, curiosidades checadas, posts do X, legenda e cartões), `x.txt` (posts do X com horário), `instagram_legenda.txt`, `cartoes/*.jpg` (carrossel 1080x1350 e `x_capa.jpg`) e `previa.html`. Opções: `--sem-cartoes`, `--max-jogos 7`, `--max-posts 5`. Não precisa de nenhuma chave.
 
-Em seguida, **sempre depois do `gerar_posts.py`**, rode o motor do X:
-
-```
-python3 scripts/motor_x.py dia --data AAAA-MM-DD
-```
-
-Ele reescreve a saída da manhã para o formato atual do X (algoritmo de 13/11/2026): resumo das 08:00 com a capa "número do dia" + lista dos jogos (`cartoes/x_capa.jpg`; a capa antiga fica em `x_capa_original.jpg`), no máximo 4 posts de jogo (só jogos do carrossel, um por horário de início, 2 h entre posts, nunca antes das 9h30, cada um com o cartão do jogo e uma pergunta de torcedor) e a legenda curta do Instagram (um número por jogo). Atualiza `posts.json` (guarda as versões anteriores em `x_original` e `instagram.legenda_original`), `x.txt` e `instagram_legenda.txt`. Não precisa de nenhuma chave. Sequência da manhã: `gerar_posts.py` → `motor_x.py dia`.
-
 **Encerramento** do dia (depois dos jogos; confere cada curiosidade publicada com o placar final):
 
 ```
@@ -77,16 +69,6 @@ python3 scripts/encerramento.py --data AAAA-MM-DD --publicar  # gera e posta no 
 ```
 
 Lê `saida/AAAA-MM-DD/posts.json` da manhã e grava `saida/AAAA-MM-DD/cartoes/fechamento.jpg` e o texto do post. Usa a TheStatsAPI para os placares.
-
-Depois do `encerramento.py`, gere o texto final do X e a versão do Instagram:
-
-```
-python3 scripts/motor_x.py encerramento --data AAAA-MM-DD            # post do X com fechamento.jpg + uma resposta por post do dia (resultado do jogo)
-python3 scripts/encerramento_instagram.py --data AAAA-MM-DD          # legenda do "Como terminou" para o Instagram (post único com fechamento.jpg)
-python3 scripts/encerramento_instagram.py --data AAAA-MM-DD --publicar  # publica no Instagram (exige o dia aprovado)
-```
-
-Os dois leem `saida/AAAA-MM-DD/encerramento.json` e `posts.json`. Sequência da noite: `encerramento.py` → `motor_x.py encerramento` → `encerramento_instagram.py`.
 
 **Publicação e aprovação** (opcionais):
 
@@ -108,8 +90,8 @@ Nada é publicado sem `aprovado.json`. O que já saiu fica em `saida/AAAA-MM-DD/
 | `RAIOX_SAIDA` | opcional: onde gravar a saída (padrão: `saida/` na raiz) |
 | `THESTATSAPI_KEY` | `encerramento.py` |
 | `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_SECRET` | `publicar.py x`, `encerramento.py --publicar` |
-| `IG_ACCESS_TOKEN`, `IMGBB_API_KEY` | `publicar.py instagram`, `encerramento_instagram.py --publicar` (renovar o token: `publicar.py renovar-ig`) |
+| `IG_ACCESS_TOKEN`, `IMGBB_API_KEY` | `publicar.py instagram` (renovar o token: `publicar.py renovar-ig`) |
 | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | `telegram_aprovacao.py` |
 | `RAIOX_REVISAO_URL` | opcional: link da página de revisão na mensagem do Telegram |
 
-Arquivos em `scripts/`: `gerar_posts.py` (principal), `curiosidades.py` (sequências, confronto direto, jogadores), `checagem.py` (recalcula cada número por outro caminho), `nomes.py` (liga os nomes da agenda aos do histórico, grava `dados/apelidos_times.csv`), `regras_x.py` (limites de texto do X), `cartoes.py` (imagens), `previa.py`, `encerramento.py`, `motor_x.py` (formato do X e legenda curta, manhã e encerramento), `encerramento_instagram.py` ("Como terminou" no Instagram), `publicar.py`, `telegram_aprovacao.py`, `montar_revisao.py`, `caminhos.py` e `fontes/` (Inter Display, licença OFL).
+Arquivos em `scripts/`: `gerar_posts.py` (principal), `curiosidades.py` (sequências, confronto direto, jogadores), `checagem.py` (recalcula cada número por outro caminho), `nomes.py` (liga os nomes da agenda aos do histórico, grava `dados/apelidos_times.csv`), `regras_x.py` (limites de texto do X), `cartoes.py` (imagens), `previa.py`, `encerramento.py`, `publicar.py`, `telegram_aprovacao.py`, `montar_revisao.py`, `caminhos.py` e `fontes/` (Inter Display, licença OFL).
