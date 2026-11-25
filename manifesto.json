@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-25T08:43:41-03:00",
+ "gerado_em": "2026-11-25T08:45:36-03:00",
  "data_brasilia": "2026-11-25",
  "fuso": "America/Sao_Paulo (UTC-3)",
  "fonte": "bases do projeto CÉREBRO; só estatística de futebol",
@@ -53,7 +53,7 @@
   },
   "dados/atualizacao.csv": {
    "bytes": 228,
-   "sha1": "becf32b63a6a99fce346e7e6db8f9bb425990e67"
+   "sha1": "6981434319224e91f76cef3fd75129204f7101fe"
   },
   "dados/jogador_partida.csv": {
    "bytes": 10794546,
@@ -65,11 +65,11 @@
   },
   "hoje.json": {
    "bytes": 36978,
-   "sha1": "a011edcadddd04ca6a8becaed5d51f331f5af037"
+   "sha1": "8f8ade25c78f7e6b161c3e59e6d98c497ccc3eee"
   },
   "hoje.md": {
    "bytes": 3668,
-   "sha1": "287f3cb3fe3eb7be5c99d816f78d403457f3e354"
+   "sha1": "01a0e4e8606fda748586c053ad9b748ae2a786b2"
   },
   "requirements.txt": {
    "bytes": 131,
