@@ -22756,7 +22756,7 @@ mt_890878935,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11
 mt_735767345,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11-22T22:00:00Z,River Plate,Lanús,tm_26071,tm_85960,3,1,1
 mt_514595116,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11-23T01:00:00Z,Instituto De Córdoba,Huracán,tm_32231,tm_722920,2,1,1
 mt_156181536,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11-23T20:00:00Z,Gimnasia y Esgrima,Newell's Old Boys,tm_47685,tm_91829,2,2,1
-mt_029770793,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,scheduled,2026-11-26T00:00:00Z,Boca Juniors,Independiente Rivadavia,tm_91813,tm_922132,,,0
+mt_029770793,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11-26T00:00:00Z,Boca Juniors,Independiente Rivadavia,tm_91813,tm_922132,2,0,1
 mt_984686312,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Rosario Central,Barracas Central,tm_38728,tm_8442265,,,0
 mt_513717923,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Vélez Sarsfield,CA Independiente,tm_85905,tm_79355,,,0
 mt_730294323,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Instituto De Córdoba,River Plate,tm_32231,tm_26071,,,0
@@ -27882,7 +27882,7 @@ mt_370250713,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-23T2
 mt_153743563,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-23T23:00:00Z,Botafogo,São Paulo,tm_83640,tm_25869,1,1,1
 mt_209839075,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-24T00:00:00Z,Santos,Grêmio,tm_83636,tm_66113,0,2,1
 mt_153743585,comp_4795,Brasileirão Série A,sn_8459352,37,finished,2026-11-24T21:00:00Z,Chapecoense,Palmeiras,tm_460410,tm_58387,3,0,1
-mt_028978233,comp_4795,Brasileirão Série A,sn_8459352,36,scheduled,2026-11-25T23:00:00Z,Atlético Mineiro,Corinthians,tm_36272,tm_36208,,,0
+mt_028978233,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-25T23:00:00Z,Atlético Mineiro,Corinthians,tm_36272,tm_36208,1,1,1
 mt_153743579,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-26T23:00:00Z,São Paulo,Remo,tm_25869,tm_97432,,,0
 mt_209839080,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-27T23:00:00Z,Fluminense,Cruzeiro,tm_25892,tm_01988,,,0
 mt_370250745,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-29T00:00:00Z,Botafogo,Bahia,tm_83640,tm_40150,,,0
@@ -28408,10 +28408,10 @@ mt_378666737,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,Cesen
 mt_150999517,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,L.R. Vicenza,Carrarese,tm_98421,tm_46149,0,1,1
 mt_512888266,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,Palermo,Südtirol,tm_46171,tm_15847,4,1,1
 mt_467000790,comp_5450,Serie B,sn_3025358,13,finished,2026-11-24T19:00:00Z,Virtus Entella,Hellas Verona,tm_176195,tm_20809,2,1,1
-mt_895333985,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-25T18:00:00Z,Cremonese,Avellino,tm_20131,tm_15775,,,0
-mt_206555021,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-25T19:00:00Z,Mantova,Arezzo,tm_15838,tm_20886,,,0
-mt_981777899,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-25T19:00:00Z,Padova,Sampdoria,tm_20817,tm_20865,,,0
-mt_024111478,comp_5450,Serie B,sn_3025358,13,scheduled,2026-11-25T19:00:00Z,Pisa,Modena,tm_37240,tm_64545,,,0
+mt_895333985,comp_5450,Serie B,sn_3025358,13,finished,2026-11-25T18:00:00Z,Cremonese,Avellino,tm_20131,tm_15775,0,1,1
+mt_206555021,comp_5450,Serie B,sn_3025358,13,finished,2026-11-25T19:00:00Z,Mantova,Arezzo,tm_15838,tm_20886,3,0,1
+mt_981777899,comp_5450,Serie B,sn_3025358,13,finished,2026-11-25T19:00:00Z,Padova,Sampdoria,tm_20817,tm_20865,1,2,1
+mt_024111478,comp_5450,Serie B,sn_3025358,13,finished,2026-11-25T19:00:00Z,Pisa,Modena,tm_37240,tm_64545,1,1,1
 mt_895333520,comp_5450,Serie B,sn_3025358,14,scheduled,2026-11-28T14:00:00Z,Ascoli,Virtus Entella,tm_37274,tm_176195,,,0
 mt_739444910,comp_5450,Serie B,sn_3025358,14,scheduled,2026-11-28T14:00:00Z,Carrarese,Juve Stabia,tm_46149,tm_05193,,,0
 mt_206555632,comp_5450,Serie B,sn_3025358,14,scheduled,2026-11-28T14:00:00Z,Empoli,Hellas Verona,tm_46168,tm_20809,,,0
@@ -37207,10 +37207,10 @@ mt_022532759,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,
 mt_466286922,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Portsmouth,West Ham United,tm_9756,tm_3809,1,0,1
 mt_644094806,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T19:45:00Z,Sheffield United,Southampton,tm_4513,tm_4893,1,1,1
 mt_377417535,comp_8321,Championship,sn_3014533,17,finished,2026-11-24T20:00:00Z,Wolverhampton,Derby County,tm_5104,tm_3759,3,0,1
-mt_155869000,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-25T19:45:00Z,Bolton Wanderers,West Bromwich Albion,tm_4830,tm_8814,,,0
-mt_200175667,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-25T19:45:00Z,Burnley,Birmingham City,tm_6573,tm_7218,,,0
-mt_466280789,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-25T19:45:00Z,Watford,Blackburn Rovers,tm_0196,tm_6917,,,0
-mt_511948229,comp_8321,Championship,sn_3014533,17,scheduled,2026-11-25T20:00:00Z,Stoke City,Millwall,tm_7348,tm_4023,,,0
+mt_155869000,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T19:45:00Z,Bolton Wanderers,West Bromwich Albion,tm_4830,tm_8814,1,3,1
+mt_200175667,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T19:45:00Z,Burnley,Birmingham City,tm_6573,tm_7218,0,2,1
+mt_466280789,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T19:45:00Z,Watford,Blackburn Rovers,tm_0196,tm_6917,0,1,1
+mt_511948229,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T20:00:00Z,Stoke City,Millwall,tm_7348,tm_4023,2,1,1
 mt_200175681,comp_8321,Championship,sn_3014533,18,scheduled,2026-11-27T20:00:00Z,Southampton,Middlesbrough,tm_4893,tm_6387,,,0
 mt_377416816,comp_8321,Championship,sn_3014533,18,scheduled,2026-11-28T12:30:00Z,Blackburn Rovers,Charlton Athletic,tm_6917,tm_3169,,,0
 mt_155869066,comp_8321,Championship,sn_3014533,18,scheduled,2026-11-28T12:30:00Z,Lincoln City,Wolverhampton,tm_9667,tm_5104,,,0
