@@ -1,188 +1,967 @@
 {
- "gerado_em": "2026-11-26T06:27:05-03:00",
- "data_brasilia": "2026-11-26",
+ "gerado_em": "2026-11-27T06:26:35-03:00",
+ "data_brasilia": "2026-11-27",
  "fuso": "America/Sao_Paulo (UTC-3)",
  "fonte": "bases do projeto CÉREBRO; só estatística de futebol",
  "observacoes": [],
  "jogos_hoje": [
   {
-   "hora_brasilia": "17:00",
-   "competicao": "League One",
-   "mandante": "Doncaster Rovers",
-   "visitante": "Huddersfield Town",
+   "hora_brasilia": "14:00",
+   "competicao": "Trendyol Süper Lig",
+   "mandante": "Çaykur Rizespor",
+   "visitante": "Kasımpaşa",
    "status": "scheduled",
-   "rodada": 17,
-   "match_id": "mt_155861091",
-   "data_hora_utc": "2026-11-26T20:00:00Z",
+   "rodada": 13,
+   "match_id": "mt_981068286",
+   "data_hora_utc": "2026-11-27T17:00:00Z",
    "ultimos_jogos_mandante": [
     {
      "data": "2026-11-21",
-     "competicao": "League One",
+     "competicao": "Trendyol Süper Lig",
      "local": "fora",
-     "adversario": "Bradford City",
-     "placar": "2 x 2",
-     "resultado": "E"
-    },
-    {
-     "data": "2026-10-31",
-     "competicao": "League One",
-     "local": "fora",
-     "adversario": "Milton Keynes Dons",
-     "placar": "6 x 1",
-     "resultado": "D"
-    },
-    {
-     "data": "2026-10-27",
-     "competicao": "League One",
-     "local": "fora",
-     "adversario": "Luton Town",
-     "placar": "3 x 1",
-     "resultado": "D"
-    },
-    {
-     "data": "2026-10-24",
-     "competicao": "League One",
-     "local": "casa",
-     "adversario": "Sheffield Wednesday",
-     "placar": "2 x 0",
+     "adversario": "Amed Sportif Faaliyetler",
+     "placar": "0 x 2",
      "resultado": "V"
     },
     {
-     "data": "2026-10-20",
-     "competicao": "League One",
+     "data": "2026-11-08",
+     "competicao": "Trendyol Süper Lig",
      "local": "casa",
-     "adversario": "Stockport County",
-     "placar": "0 x 2",
+     "adversario": "Erzurumspor FK",
+     "placar": "2 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Kocaelispor",
+     "placar": "0 x 0",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-26",
+     "competicao": "Trendyol Süper Lig",
+     "local": "casa",
+     "adversario": "Trabzonspor",
+     "placar": "3 x 4",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-16",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Çorum FK",
+     "placar": "2 x 1",
      "resultado": "D"
     }
    ],
    "ultimos_jogos_visitante": [
     {
-     "data": "2026-11-21",
-     "competicao": "League One",
+     "data": "2026-11-22",
+     "competicao": "Trendyol Süper Lig",
      "local": "casa",
-     "adversario": "Leicester City",
-     "placar": "0 x 1",
-     "resultado": "D"
-    },
-    {
-     "data": "2026-11-03",
-     "competicao": "League One",
-     "local": "casa",
-     "adversario": "Luton Town",
-     "placar": "1 x 1",
-     "resultado": "E"
-    },
-    {
-     "data": "2026-10-31",
-     "competicao": "League One",
-     "local": "fora",
-     "adversario": "Bradford City",
-     "placar": "0 x 3",
-     "resultado": "V"
-    },
-    {
-     "data": "2026-10-24",
-     "competicao": "League One",
-     "local": "casa",
-     "adversario": "Wigan Athletic",
+     "adversario": "Alanyaspor",
      "placar": "2 x 1",
      "resultado": "V"
     },
     {
-     "data": "2026-10-20",
-     "competicao": "League One",
+     "data": "2026-11-06",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Gaziantep FK",
+     "placar": "0 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "Trendyol Süper Lig",
      "local": "casa",
-     "adversario": "Peterborough United",
+     "adversario": "Beşiktaş",
+     "placar": "2 x 2",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Eyüpspor",
+     "placar": "0 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-18",
+     "competicao": "Trendyol Süper Lig",
+     "local": "casa",
+     "adversario": "Samsunspor",
      "placar": "4 x 1",
      "resultado": "V"
     }
    ],
    "confronto_direto": [
     {
-     "data": "2026-02-17",
-     "liga": "League One",
-     "mandante": "Doncaster Rovers",
-     "visitante": "Huddersfield Town",
+     "data": "2026-02-28",
+     "liga": "Süper Lig",
+     "mandante": "Kasımpaşa",
+     "visitante": "Çaykur Rizespor",
+     "placar": "0 x 3"
+    },
+    {
+     "data": "2025-09-28",
+     "liga": "Süper Lig",
+     "mandante": "Çaykur Rizespor",
+     "visitante": "Kasımpaşa",
+     "placar": "1 x 2"
+    },
+    {
+     "data": "2025-02-09",
+     "liga": "Süper Lig",
+     "mandante": "Kasımpaşa",
+     "visitante": "Çaykur Rizespor",
+     "placar": "3 x 2"
+    },
+    {
+     "data": "2024-08-31",
+     "liga": "Süper Lig",
+     "mandante": "Çaykur Rizespor",
+     "visitante": "Kasımpaşa",
+     "placar": "0 x 1"
+    },
+    {
+     "data": "2024-05-18",
+     "liga": "Süper Lig",
+     "mandante": "Çaykur Rizespor",
+     "visitante": "Kasımpaşa",
+     "placar": "0 x 0"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "14:00",
+   "competicao": "Trendyol Süper Lig",
+   "mandante": "Alanyaspor",
+   "visitante": "Konyaspor",
+   "status": "scheduled",
+   "rodada": 13,
+   "match_id": "mt_512671418",
+   "data_hora_utc": "2026-11-27T17:00:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Kasımpaşa",
+     "placar": "2 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "Trendyol Süper Lig",
+     "local": "casa",
+     "adversario": "Trabzonspor",
+     "placar": "0 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-02",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Gençlerbirliği",
+     "placar": "5 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-23",
+     "competicao": "Trendyol Süper Lig",
+     "local": "casa",
+     "adversario": "Kocaelispor",
+     "placar": "1 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Fenerbahçe",
+     "placar": "3 x 0",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Trendyol Süper Lig",
+     "local": "casa",
+     "adversario": "Beşiktaş",
+     "placar": "2 x 4",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Samsunspor",
+     "placar": "1 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-30",
+     "competicao": "Trendyol Süper Lig",
+     "local": "casa",
+     "adversario": "Galatasaray",
+     "placar": "0 x 4",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-25",
+     "competicao": "Trendyol Süper Lig",
+     "local": "casa",
+     "adversario": "Gençlerbirliği",
+     "placar": "2 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "Trendyol Süper Lig",
+     "local": "fora",
+     "adversario": "Amed Sportif Faaliyetler",
+     "placar": "1 x 0",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2026-02-14",
+     "liga": "Süper Lig",
+     "mandante": "Alanyaspor",
+     "visitante": "Konyaspor",
+     "placar": "2 x 1"
+    },
+    {
+     "data": "2025-09-13",
+     "liga": "Süper Lig",
+     "mandante": "Konyaspor",
+     "visitante": "Alanyaspor",
+     "placar": "1 x 2"
+    },
+    {
+     "data": "2025-05-25",
+     "liga": "Süper Lig",
+     "mandante": "Konyaspor",
+     "visitante": "Alanyaspor",
+     "placar": "1 x 2"
+    },
+    {
+     "data": "2025-01-03",
+     "liga": "Süper Lig",
+     "mandante": "Alanyaspor",
+     "visitante": "Konyaspor",
+     "placar": "2 x 1"
+    },
+    {
+     "data": "2024-04-20",
+     "liga": "Süper Lig",
+     "mandante": "Konyaspor",
+     "visitante": "Alanyaspor",
+     "placar": "0 x 2"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "14:30",
+   "competicao": "2. Bundesliga",
+   "mandante": "1. FC Heidenheim",
+   "visitante": "1. FC Nürnberg",
+   "status": "scheduled",
+   "rodada": 13,
+   "match_id": "mt_200253895",
+   "data_hora_utc": "2026-11-27T17:30:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-20",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "Darmstadt 98",
+     "placar": "3 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "Hannover 96",
+     "placar": "2 x 2",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "Karlsruher SC",
+     "placar": "2 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "Energie Cottbus",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "VfL Wolfsburg",
+     "placar": "3 x 1",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "Eintracht Braunschweig",
+     "placar": "1 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "Darmstadt 98",
+     "placar": "2 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "FC St. Pauli",
+     "placar": "1 x 3",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "1. FC Kaiserslautern",
+     "placar": "0 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-16",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "Energie Cottbus",
+     "placar": "1 x 1",
+     "resultado": "E"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2023-02-19",
+     "liga": "2. Bundesliga",
+     "mandante": "1. FC Heidenheim",
+     "visitante": "1. FC Nürnberg",
+     "placar": "5 x 0"
+    },
+    {
+     "data": "2022-08-12",
+     "liga": "2. Bundesliga",
+     "mandante": "1. FC Nürnberg",
+     "visitante": "1. FC Heidenheim",
+     "placar": "0 x 3"
+    },
+    {
+     "data": "2022-04-03",
+     "liga": "2. Bundesliga",
+     "mandante": "1. FC Heidenheim",
+     "visitante": "1. FC Nürnberg",
+     "placar": "3 x 1"
+    },
+    {
+     "data": "2021-10-23",
+     "liga": "2. Bundesliga",
+     "mandante": "1. FC Nürnberg",
+     "visitante": "1. FC Heidenheim",
+     "placar": "4 x 0"
+    },
+    {
+     "data": "2021-04-24",
+     "liga": "2. Bundesliga",
+     "mandante": "1. FC Nürnberg",
+     "visitante": "1. FC Heidenheim",
+     "placar": "3 x 1"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "14:30",
+   "competicao": "2. Bundesliga",
+   "mandante": "VfL Bochum 1848",
+   "visitante": "Darmstadt 98",
+   "status": "scheduled",
+   "rodada": 13,
+   "match_id": "mt_644628538",
+   "data_hora_utc": "2026-11-27T17:30:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "FC St. Pauli",
+     "placar": "2 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "Karlsruher SC",
+     "placar": "3 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-30",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "Energie Cottbus",
+     "placar": "1 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-23",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "VfL Wolfsburg",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "1. FC Kaiserslautern",
+     "placar": "2 x 0",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-20",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "1. FC Heidenheim",
+     "placar": "3 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "1. FC Nürnberg",
+     "placar": "2 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "1. FC Magdeburg",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-23",
+     "competicao": "2. Bundesliga",
+     "local": "casa",
+     "adversario": "FC St. Pauli",
+     "placar": "0 x 0",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-18",
+     "competicao": "2. Bundesliga",
+     "local": "fora",
+     "adversario": "Karlsruher SC",
+     "placar": "4 x 0",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2026-01-18",
+     "liga": "2. Bundesliga",
+     "mandante": "VfL Bochum 1848",
+     "visitante": "Darmstadt 98",
+     "placar": "3 x 3"
+    },
+    {
+     "data": "2025-08-02",
+     "liga": "2. Bundesliga",
+     "mandante": "Darmstadt 98",
+     "visitante": "VfL Bochum 1848",
+     "placar": "4 x 1"
+    },
+    {
+     "data": "2024-03-31",
+     "liga": "Bundesliga",
+     "mandante": "VfL Bochum 1848",
+     "visitante": "Darmstadt 98",
+     "placar": "2 x 2"
+    },
+    {
+     "data": "2023-11-03",
+     "liga": "Bundesliga",
+     "mandante": "Darmstadt 98",
+     "visitante": "VfL Bochum 1848",
+     "placar": "1 x 2"
+    },
+    {
+     "data": "2021-04-26",
+     "liga": "2. Bundesliga",
+     "mandante": "Darmstadt 98",
+     "visitante": "VfL Bochum 1848",
+     "placar": "3 x 1"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "16:00",
+   "competicao": "Eredivisie",
+   "mandante": "FC Groningen",
+   "visitante": "Willem II Tilburg",
+   "status": "scheduled",
+   "rodada": 14,
+   "match_id": "mt_200855331",
+   "data_hora_utc": "2026-11-27T19:00:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "Eredivisie",
+     "local": "casa",
+     "adversario": "SC Heerenveen",
+     "placar": "1 x 3",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "Eredivisie",
+     "local": "fora",
+     "adversario": "AZ Alkmaar",
+     "placar": "4 x 3",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "Eredivisie",
+     "local": "casa",
+     "adversario": "Sparta Rotterdam",
+     "placar": "2 x 3",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-25",
+     "competicao": "Eredivisie",
+     "local": "fora",
+     "adversario": "NEC Nijmegen",
+     "placar": "2 x 2",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-18",
+     "competicao": "Eredivisie",
+     "local": "casa",
+     "adversario": "AFC Ajax",
+     "placar": "2 x 5",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Eredivisie",
+     "local": "fora",
+     "adversario": "FC Twente",
+     "placar": "2 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-06",
+     "competicao": "Eredivisie",
+     "local": "casa",
+     "adversario": "PEC Zwolle",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Eredivisie",
+     "local": "fora",
+     "adversario": "PSV Eindhoven",
+     "placar": "7 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Eredivisie",
+     "local": "casa",
+     "adversario": "SC Cambuur",
+     "placar": "1 x 6",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "Eredivisie",
+     "local": "fora",
+     "adversario": "Sparta Rotterdam",
+     "placar": "3 x 2",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2025-02-15",
+     "liga": "Eredivisie",
+     "mandante": "Willem II Tilburg",
+     "visitante": "FC Groningen",
+     "placar": "1 x 3"
+    },
+    {
+     "data": "2024-11-30",
+     "liga": "Eredivisie",
+     "mandante": "FC Groningen",
+     "visitante": "Willem II Tilburg",
+     "placar": "2 x 0"
+    },
+    {
+     "data": "2022-02-26",
+     "liga": "Eredivisie",
+     "mandante": "FC Groningen",
+     "visitante": "Willem II Tilburg",
      "placar": "1 x 0"
     },
     {
-     "data": "2025-08-19",
-     "liga": "League One",
-     "mandante": "Huddersfield Town",
-     "visitante": "Doncaster Rovers",
-     "placar": "2 x 0"
+     "data": "2021-09-18",
+     "liga": "Eredivisie",
+     "mandante": "Willem II Tilburg",
+     "visitante": "FC Groningen",
+     "placar": "2 x 1"
     },
     {
-     "data": "2014-03-08",
-     "liga": "Championship",
-     "mandante": "Doncaster Rovers",
-     "visitante": "Huddersfield Town",
-     "placar": "2 x 0"
+     "data": "2021-01-14",
+     "liga": "Eredivisie",
+     "mandante": "Willem II Tilburg",
+     "visitante": "FC Groningen",
+     "placar": "2 x 3"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "16:30",
+   "competicao": "Bundesliga",
+   "mandante": "SV Werder Bremen",
+   "visitante": "Borussia M'gladbach",
+   "status": "scheduled",
+   "rodada": 11,
+   "match_id": "mt_899837994",
+   "data_hora_utc": "2026-11-27T19:30:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Bundesliga",
+     "local": "casa",
+     "adversario": "Hamburger SV",
+     "placar": "4 x 0",
+     "resultado": "V"
     },
     {
-     "data": "2013-09-14",
-     "liga": "Championship",
-     "mandante": "Huddersfield Town",
-     "visitante": "Doncaster Rovers",
-     "placar": "0 x 0"
+     "data": "2026-11-07",
+     "competicao": "Bundesliga",
+     "local": "fora",
+     "adversario": "VfB Stuttgart",
+     "placar": "1 x 0",
+     "resultado": "D"
     },
     {
-     "data": "2008-04-05",
-     "liga": "League One",
-     "mandante": "Huddersfield Town",
-     "visitante": "Doncaster Rovers",
+     "data": "2026-10-31",
+     "competicao": "Bundesliga",
+     "local": "casa",
+     "adversario": "TSG Hoffenheim",
+     "placar": "2 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Bundesliga",
+     "local": "fora",
+     "adversario": "1. FSV Mainz 05",
+     "placar": "2 x 3",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "Bundesliga",
+     "local": "casa",
+     "adversario": "SC Paderborn 07",
+     "placar": "2 x 2",
+     "resultado": "E"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "Bundesliga",
+     "local": "casa",
+     "adversario": "Borussia Dortmund",
+     "placar": "0 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-06",
+     "competicao": "Bundesliga",
+     "local": "fora",
+     "adversario": "Hamburger SV",
+     "placar": "3 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Bundesliga",
+     "local": "casa",
+     "adversario": "SC Paderborn 07",
+     "placar": "0 x 0",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-23",
+     "competicao": "Bundesliga",
+     "local": "fora",
+     "adversario": "VfB Stuttgart",
+     "placar": "2 x 3",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-18",
+     "competicao": "Bundesliga",
+     "local": "casa",
+     "adversario": "TSG Hoffenheim",
+     "placar": "1 x 2",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2026-01-31",
+     "liga": "Bundesliga",
+     "mandante": "SV Werder Bremen",
+     "visitante": "Borussia M'gladbach",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2025-09-14",
+     "liga": "Bundesliga",
+     "mandante": "Borussia M'gladbach",
+     "visitante": "SV Werder Bremen",
+     "placar": "0 x 4"
+    },
+    {
+     "data": "2025-03-15",
+     "liga": "Bundesliga",
+     "mandante": "SV Werder Bremen",
+     "visitante": "Borussia M'gladbach",
+     "placar": "2 x 4"
+    },
+    {
+     "data": "2024-11-03",
+     "liga": "Bundesliga",
+     "mandante": "Borussia M'gladbach",
+     "visitante": "SV Werder Bremen",
+     "placar": "4 x 1"
+    },
+    {
+     "data": "2024-05-04",
+     "liga": "Bundesliga",
+     "mandante": "SV Werder Bremen",
+     "visitante": "Borussia M'gladbach",
      "placar": "2 x 2"
     }
    ]
   },
   {
-   "hora_brasilia": "20:00",
-   "competicao": "Brasileirão Série A",
-   "mandante": "São Paulo",
-   "visitante": "Remo",
+   "hora_brasilia": "16:30",
+   "competicao": "LaLiga 2",
+   "mandante": "Leganés",
+   "visitante": "CE Sabadell",
    "status": "scheduled",
-   "rodada": 37,
-   "match_id": "mt_153743579",
-   "data_hora_utc": "2026-11-26T23:00:00Z",
+   "rodada": 16,
+   "match_id": "mt_200230151",
+   "data_hora_utc": "2026-11-27T19:30:00Z",
    "ultimos_jogos_mandante": [
     {
-     "data": "2026-11-23",
-     "competicao": "Brasileirão Série A",
+     "data": "2026-11-20",
+     "competicao": "LaLiga 2",
      "local": "fora",
-     "adversario": "Botafogo",
-     "placar": "1 x 1",
-     "resultado": "E"
+     "adversario": "FC Andorra",
+     "placar": "1 x 3",
+     "resultado": "V"
     },
     {
-     "data": "2026-11-19",
-     "competicao": "Brasileirão Série A",
+     "data": "2026-11-13",
+     "competicao": "LaLiga 2",
      "local": "casa",
-     "adversario": "Fluminense",
-     "placar": "0 x 1",
+     "adversario": "Burgos Club de Fútbol",
+     "placar": "3 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "LaLiga 2",
+     "local": "casa",
+     "adversario": "Albacete Balompié",
+     "placar": "1 x 3",
      "resultado": "D"
     },
     {
-     "data": "2026-11-04",
-     "competicao": "Brasileirão Série A",
-     "local": "casa",
-     "adversario": "Corinthians",
-     "placar": "0 x 0",
-     "resultado": "E"
-    },
-    {
-     "data": "2026-10-28",
-     "competicao": "Brasileirão Série A",
+     "data": "2026-11-02",
+     "competicao": "LaLiga 2",
      "local": "fora",
-     "adversario": "Bahia",
-     "placar": "3 x 2",
+     "adversario": "Real Valladolid",
+     "placar": "4 x 3",
      "resultado": "D"
     },
     {
      "data": "2026-10-24",
-     "competicao": "Brasileirão Série A",
+     "competicao": "LaLiga 2",
+     "local": "casa",
+     "adversario": "Mallorca",
+     "placar": "1 x 1",
+     "resultado": "E"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "LaLiga 2",
+     "local": "casa",
+     "adversario": "Granada",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-11-15",
+     "competicao": "LaLiga 2",
      "local": "fora",
-     "adversario": "Mirassol",
+     "adversario": "CD Eldense",
+     "placar": "2 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-09",
+     "competicao": "LaLiga 2",
+     "local": "casa",
+     "adversario": "Real Sociedad B",
+     "placar": "0 x 0",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "LaLiga 2",
+     "local": "fora",
+     "adversario": "Albacete Balompié",
+     "placar": "2 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-25",
+     "competicao": "LaLiga 2",
+     "local": "casa",
+     "adversario": "CD Tenerife",
+     "placar": "1 x 1",
+     "resultado": "E"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2021-04-04",
+     "liga": "Segunda División",
+     "mandante": "Leganés",
+     "visitante": "CE Sabadell",
+     "placar": "2 x 1"
+    },
+    {
+     "data": "2020-10-29",
+     "liga": "Segunda División",
+     "mandante": "CE Sabadell",
+     "visitante": "Leganés",
+     "placar": "1 x 0"
+    },
+    {
+     "data": "2015-05-16",
+     "liga": "Segunda División",
+     "mandante": "Leganés",
+     "visitante": "CE Sabadell",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2014-12-14",
+     "liga": "Segunda División",
+     "mandante": "CE Sabadell",
+     "visitante": "Leganés",
+     "placar": "1 x 2"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "16:45",
+   "competicao": "Ligue 1",
+   "mandante": "Stade Brestois",
+   "visitante": "Paris FC",
+   "status": "scheduled",
+   "rodada": 12,
+   "match_id": "mt_988470123",
+   "data_hora_utc": "2026-11-27T19:45:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "Ligue 1",
+     "local": "fora",
+     "adversario": "RC Strasbourg",
+     "placar": "0 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "Ligue 1",
+     "local": "casa",
+     "adversario": "Olympique Lyonnais",
+     "placar": "2 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-02",
+     "competicao": "Ligue 1",
+     "local": "fora",
+     "adversario": "Lorient",
+     "placar": "0 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-23",
+     "competicao": "Ligue 1",
+     "local": "casa",
+     "adversario": "Nice",
+     "placar": "1 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "Ligue 1",
+     "local": "fora",
+     "adversario": "Lille",
      "placar": "1 x 1",
      "resultado": "E"
     }
@@ -190,173 +969,1152 @@
    "ultimos_jogos_visitante": [
     {
      "data": "2026-11-22",
-     "competicao": "Brasileirão Série A",
+     "competicao": "Ligue 1",
+     "local": "casa",
+     "adversario": "Angers",
+     "placar": "4 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "Ligue 1",
      "local": "fora",
-     "adversario": "Athletico",
-     "placar": "4 x 2",
+     "adversario": "Auxerre",
+     "placar": "0 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "Ligue 1",
+     "local": "casa",
+     "adversario": "AS Monaco",
+     "placar": "3 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Ligue 1",
+     "local": "fora",
+     "adversario": "RC Lens",
+     "placar": "2 x 1",
      "resultado": "D"
     },
     {
-     "data": "2026-11-18",
-     "competicao": "Brasileirão Série A",
+     "data": "2026-10-18",
+     "competicao": "Ligue 1",
      "local": "casa",
-     "adversario": "Chapecoense",
+     "adversario": "Stade Rennais",
+     "placar": "4 x 3",
+     "resultado": "V"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2026-05-03",
+     "liga": "Ligue 1",
+     "mandante": "Paris FC",
+     "visitante": "Stade Brestois",
+     "placar": "4 x 0"
+    },
+    {
+     "data": "2025-09-14",
+     "liga": "Ligue 1",
+     "mandante": "Stade Brestois",
+     "visitante": "Paris FC",
+     "placar": "1 x 2"
+    },
+    {
+     "data": "2019-01-21",
+     "liga": "Ligue 2",
+     "mandante": "Paris FC",
+     "visitante": "Stade Brestois",
+     "placar": "0 x 1"
+    },
+    {
+     "data": "2018-08-10",
+     "liga": "Ligue 2",
+     "mandante": "Stade Brestois",
+     "visitante": "Paris FC",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2018-02-24",
+     "liga": "Ligue 2",
+     "mandante": "Paris FC",
+     "visitante": "Stade Brestois",
+     "placar": "0 x 1"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "16:45",
+   "competicao": "Pro League",
+   "mandante": "Oud-Heverlee Leuven",
+   "visitante": "KV Kortrijk",
+   "status": "scheduled",
+   "rodada": 13,
+   "match_id": "mt_644052351",
+   "data_hora_utc": "2026-11-27T19:45:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Pro League",
+     "local": "fora",
+     "adversario": "RSC Anderlecht",
+     "placar": "1 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "Pro League",
+     "local": "casa",
+     "adversario": "KV Mechelen",
      "placar": "2 x 0",
      "resultado": "V"
     },
     {
-     "data": "2026-11-05",
+     "data": "2026-11-01",
+     "competicao": "Pro League",
+     "local": "fora",
+     "adversario": "Sint-Truidense VV",
+     "placar": "1 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Pro League",
+     "local": "casa",
+     "adversario": "Lommel SK",
+     "placar": "2 x 2",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-11",
+     "competicao": "Pro League",
+     "local": "fora",
+     "adversario": "Royale Union Saint-Gilloise",
+     "placar": "1 x 1",
+     "resultado": "E"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Pro League",
+     "local": "casa",
+     "adversario": "Royale Union Saint-Gilloise",
+     "placar": "0 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "Pro League",
+     "local": "fora",
+     "adversario": "KAA Gent",
+     "placar": "1 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-04",
+     "competicao": "Pro League",
+     "local": "casa",
+     "adversario": "KV Mechelen",
+     "placar": "1 x 3",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Pro League",
+     "local": "fora",
+     "adversario": "Standard Liège",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-10",
+     "competicao": "Pro League",
+     "local": "fora",
+     "adversario": "KRC Genk",
+     "placar": "3 x 0",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2025-03-08",
+     "liga": "Pro League",
+     "mandante": "KV Kortrijk",
+     "visitante": "Oud-Heverlee Leuven",
+     "placar": "2 x 0"
+    },
+    {
+     "data": "2024-09-22",
+     "liga": "Pro League",
+     "mandante": "Oud-Heverlee Leuven",
+     "visitante": "KV Kortrijk",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2024-01-27",
+     "liga": "Pro League",
+     "mandante": "KV Kortrijk",
+     "visitante": "Oud-Heverlee Leuven",
+     "placar": "0 x 0"
+    },
+    {
+     "data": "2023-09-01",
+     "liga": "Pro League",
+     "mandante": "Oud-Heverlee Leuven",
+     "visitante": "KV Kortrijk",
+     "placar": "3 x 0"
+    },
+    {
+     "data": "2023-01-08",
+     "liga": "Pro League",
+     "mandante": "Oud-Heverlee Leuven",
+     "visitante": "KV Kortrijk",
+     "placar": "2 x 3"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "16:45",
+   "competicao": "Serie A",
+   "mandante": "Venezia",
+   "visitante": "Bologna",
+   "status": "scheduled",
+   "rodada": 13,
+   "match_id": "mt_899072865",
+   "data_hora_utc": "2026-11-27T19:45:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Serie A",
+     "local": "fora",
+     "adversario": "Juventus",
+     "placar": "4 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-06",
+     "competicao": "Serie A",
+     "local": "casa",
+     "adversario": "Udinese",
+     "placar": "2 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "Serie A",
+     "local": "fora",
+     "adversario": "Como",
+     "placar": "1 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-28",
+     "competicao": "Serie A",
+     "local": "casa",
+     "adversario": "Inter",
+     "placar": "0 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-25",
+     "competicao": "Serie A",
+     "local": "fora",
+     "adversario": "Genoa",
+     "placar": "1 x 0",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Serie A",
+     "local": "casa",
+     "adversario": "Udinese",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "Serie A",
+     "local": "fora",
+     "adversario": "Parma",
+     "placar": "1 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Serie A",
+     "local": "casa",
+     "adversario": "Monza",
+     "placar": "2 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-28",
+     "competicao": "Serie A",
+     "local": "fora",
+     "adversario": "Milan",
+     "placar": "2 x 4",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Serie A",
+     "local": "fora",
+     "adversario": "Cagliari",
+     "placar": "0 x 2",
+     "resultado": "V"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2025-03-29",
+     "liga": "Serie A",
+     "mandante": "Venezia",
+     "visitante": "Bologna",
+     "placar": "0 x 1"
+    },
+    {
+     "data": "2024-11-30",
+     "liga": "Serie A",
+     "mandante": "Bologna",
+     "visitante": "Venezia",
+     "placar": "3 x 0"
+    },
+    {
+     "data": "2022-05-08",
+     "liga": "Serie A",
+     "mandante": "Venezia",
+     "visitante": "Bologna",
+     "placar": "4 x 3"
+    },
+    {
+     "data": "2021-11-21",
+     "liga": "Serie A",
+     "mandante": "Bologna",
+     "visitante": "Venezia",
+     "placar": "0 x 1"
+    },
+    {
+     "data": "2002-02-03",
+     "liga": "Serie A",
+     "mandante": "Bologna",
+     "visitante": "Venezia",
+     "placar": "1 x 1"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "17:00",
+   "competicao": "Championship",
+   "mandante": "Southampton",
+   "visitante": "Middlesbrough",
+   "status": "scheduled",
+   "rodada": 18,
+   "match_id": "mt_200175681",
+   "data_hora_utc": "2026-11-27T20:00:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-24",
+     "competicao": "Championship",
+     "local": "fora",
+     "adversario": "Sheffield United",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-11-21",
+     "competicao": "Championship",
+     "local": "casa",
+     "adversario": "Derby County",
+     "placar": "2 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "Championship",
+     "local": "fora",
+     "adversario": "Preston North End",
+     "placar": "1 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-03",
+     "competicao": "Championship",
+     "local": "fora",
+     "adversario": "West Bromwich Albion",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Championship",
+     "local": "casa",
+     "adversario": "Queens Park Rangers",
+     "placar": "4 x 1",
+     "resultado": "V"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-24",
+     "competicao": "Championship",
+     "local": "casa",
+     "adversario": "Swansea City",
+     "placar": "2 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-21",
+     "competicao": "Championship",
+     "local": "casa",
+     "adversario": "Bristol City",
+     "placar": "2 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "Championship",
+     "local": "fora",
+     "adversario": "Watford",
+     "placar": "0 x 0",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-11-04",
+     "competicao": "Championship",
+     "local": "fora",
+     "adversario": "Wrexham",
+     "placar": "2 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Championship",
+     "local": "casa",
+     "adversario": "Charlton Athletic",
+     "placar": "3 x 0",
+     "resultado": "V"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2026-05-12",
+     "liga": "Championship",
+     "mandante": "Southampton",
+     "visitante": "Middlesbrough",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2026-05-09",
+     "liga": "Championship",
+     "mandante": "Middlesbrough",
+     "visitante": "Southampton",
+     "placar": "0 x 0"
+    },
+    {
+     "data": "2026-01-04",
+     "liga": "Championship",
+     "mandante": "Middlesbrough",
+     "visitante": "Southampton",
+     "placar": "4 x 0"
+    },
+    {
+     "data": "2025-09-27",
+     "liga": "Championship",
+     "mandante": "Southampton",
+     "visitante": "Middlesbrough",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2024-03-29",
+     "liga": "Championship",
+     "mandante": "Southampton",
+     "visitante": "Middlesbrough",
+     "placar": "1 x 1"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "17:00",
+   "competicao": "LaLiga",
+   "mandante": "Levante UD",
+   "visitante": "Racing de Santander",
+   "status": "scheduled",
+   "rodada": 14,
+   "match_id": "mt_377354832",
+   "data_hora_utc": "2026-11-27T20:00:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-23",
+     "competicao": "LaLiga",
+     "local": "casa",
+     "adversario": "Elche",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "LaLiga",
+     "local": "fora",
+     "adversario": "Celta Vigo",
+     "placar": "0 x 0",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "LaLiga",
+     "local": "casa",
+     "adversario": "Atlético Madrid",
+     "placar": "0 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-25",
+     "competicao": "LaLiga",
+     "local": "fora",
+     "adversario": "Real Sociedad",
+     "placar": "2 x 1",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-21",
+     "competicao": "LaLiga",
+     "local": "casa",
+     "adversario": "Athletic Club",
+     "placar": "3 x 1",
+     "resultado": "V"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "LaLiga",
+     "local": "casa",
+     "adversario": "Real Sociedad",
+     "placar": "3 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "LaLiga",
+     "local": "fora",
+     "adversario": "Málaga",
+     "placar": "1 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "LaLiga",
+     "local": "casa",
+     "adversario": "Real Madrid",
+     "placar": "0 x 3",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "LaLiga",
+     "local": "casa",
+     "adversario": "Espanyol",
+     "placar": "2 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-18",
+     "competicao": "LaLiga",
+     "local": "fora",
+     "adversario": "Osasuna",
+     "placar": "2 x 0",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2025-04-06",
+     "liga": "Segunda División",
+     "mandante": "Levante UD",
+     "visitante": "Racing de Santander",
+     "placar": "3 x 1"
+    },
+    {
+     "data": "2024-10-13",
+     "liga": "Segunda División",
+     "mandante": "Racing de Santander",
+     "visitante": "Levante UD",
+     "placar": "1 x 0"
+    },
+    {
+     "data": "2024-04-20",
+     "liga": "Segunda División",
+     "mandante": "Racing de Santander",
+     "visitante": "Levante UD",
+     "placar": "0 x 0"
+    },
+    {
+     "data": "2023-11-20",
+     "liga": "Segunda División",
+     "mandante": "Levante UD",
+     "visitante": "Racing de Santander",
+     "placar": "2 x 4"
+    },
+    {
+     "data": "2023-03-25",
+     "liga": "Segunda División",
+     "mandante": "Racing de Santander",
+     "visitante": "Levante UD",
+     "placar": "0 x 1"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "17:00",
+   "competicao": "Premier League",
+   "mandante": "Nottingham Forest",
+   "visitante": "Chelsea",
+   "status": "scheduled",
+   "rodada": 12,
+   "match_id": "mt_511976345",
+   "data_hora_utc": "2026-11-27T20:00:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "Premier League",
+     "local": "fora",
+     "adversario": "Bournemouth",
+     "placar": "2 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "Premier League",
+     "local": "casa",
+     "adversario": "Manchester City",
+     "placar": "3 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Premier League",
+     "local": "fora",
+     "adversario": "Brentford",
+     "placar": "2 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-23",
+     "competicao": "Premier League",
+     "local": "fora",
+     "adversario": "Ipswich Town",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-18",
+     "competicao": "Premier League",
+     "local": "casa",
+     "adversario": "Arsenal",
+     "placar": "0 x 1",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "Premier League",
+     "local": "casa",
+     "adversario": "Leeds United",
+     "placar": "1 x 4",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-08",
+     "competicao": "Premier League",
+     "local": "fora",
+     "adversario": "Sunderland",
+     "placar": "1 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "Premier League",
+     "local": "casa",
+     "adversario": "Manchester United",
+     "placar": "2 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Premier League",
+     "local": "casa",
+     "adversario": "Tottenham Hotspur",
+     "placar": "0 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-17",
+     "competicao": "Premier League",
+     "local": "fora",
+     "adversario": "Everton",
+     "placar": "0 x 2",
+     "resultado": "V"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2026-05-04",
+     "liga": "Premier League",
+     "mandante": "Chelsea",
+     "visitante": "Nottingham Forest",
+     "placar": "1 x 3"
+    },
+    {
+     "data": "2025-10-18",
+     "liga": "Premier League",
+     "mandante": "Nottingham Forest",
+     "visitante": "Chelsea",
+     "placar": "0 x 3"
+    },
+    {
+     "data": "2025-05-25",
+     "liga": "Premier League",
+     "mandante": "Nottingham Forest",
+     "visitante": "Chelsea",
+     "placar": "0 x 1"
+    },
+    {
+     "data": "2024-10-06",
+     "liga": "Premier League",
+     "mandante": "Chelsea",
+     "visitante": "Nottingham Forest",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2024-05-11",
+     "liga": "Premier League",
+     "mandante": "Nottingham Forest",
+     "visitante": "Chelsea",
+     "placar": "2 x 3"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "17:15",
+   "competicao": "Liga Portugal Betclic",
+   "mandante": "Marítimo",
+   "visitante": "CD Nacional",
+   "status": "scheduled",
+   "rodada": 12,
+   "match_id": "mt_988928898",
+   "data_hora_utc": "2026-11-27T20:15:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-01",
+     "competicao": "Liga Portugal Betclic",
+     "local": "casa",
+     "adversario": "Santa Clara",
+     "placar": "0 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-23",
+     "competicao": "Liga Portugal Betclic",
+     "local": "fora",
+     "adversario": "Vitória SC",
+     "placar": "5 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-10",
+     "competicao": "Liga Portugal Betclic",
+     "local": "casa",
+     "adversario": "FC Porto",
+     "placar": "1 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-09-19",
+     "competicao": "Liga Portugal Betclic",
+     "local": "fora",
+     "adversario": "Gil Vicente",
+     "placar": "1 x 1",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-09-14",
+     "competicao": "Liga Portugal Betclic",
+     "local": "fora",
+     "adversario": "Moreirense",
+     "placar": "3 x 1",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-08",
+     "competicao": "Liga Portugal Betclic",
+     "local": "casa",
+     "adversario": "Académico Viseu FC",
+     "placar": "1 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "Liga Portugal Betclic",
+     "local": "fora",
+     "adversario": "FC Arouca",
+     "placar": "1 x 0",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-10-25",
+     "competicao": "Liga Portugal Betclic",
+     "local": "casa",
+     "adversario": "Sporting Braga",
+     "placar": "1 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-11",
+     "competicao": "Liga Portugal Betclic",
+     "local": "fora",
+     "adversario": "Rio Ave",
+     "placar": "3 x 2",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-09-19",
+     "competicao": "Liga Portugal Betclic",
+     "local": "casa",
+     "adversario": "Famalicão",
+     "placar": "0 x 4",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2021-03-12",
+     "liga": "Primeira Liga",
+     "mandante": "CD Nacional",
+     "visitante": "Marítimo",
+     "placar": "1 x 2"
+    },
+    {
+     "data": "2020-10-31",
+     "liga": "Primeira Liga",
+     "mandante": "Marítimo",
+     "visitante": "CD Nacional",
+     "placar": "0 x 0"
+    },
+    {
+     "data": "2019-03-31",
+     "liga": "Primeira Liga",
+     "mandante": "Marítimo",
+     "visitante": "CD Nacional",
+     "placar": "3 x 2"
+    },
+    {
+     "data": "2018-11-10",
+     "liga": "Primeira Liga",
+     "mandante": "CD Nacional",
+     "visitante": "Marítimo",
+     "placar": "1 x 0"
+    },
+    {
+     "data": "2017-02-20",
+     "liga": "Primeira Liga",
+     "mandante": "Marítimo",
+     "visitante": "CD Nacional",
+     "placar": "0 x 0"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "20:00",
+   "competicao": "Brasileirão Série A",
+   "mandante": "Fluminense",
+   "visitante": "Cruzeiro",
+   "status": "scheduled",
+   "rodada": 37,
+   "match_id": "mt_209839080",
+   "data_hora_utc": "2026-11-27T23:00:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-22",
+     "competicao": "Brasileirão Série A",
+     "local": "casa",
+     "adversario": "Mirassol",
+     "placar": "1 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-19",
      "competicao": "Brasileirão Série A",
      "local": "fora",
-     "adversario": "Palmeiras",
-     "placar": "6 x 1",
-     "resultado": "D"
+     "adversario": "São Paulo",
+     "placar": "0 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-06",
+     "competicao": "Brasileirão Série A",
+     "local": "fora",
+     "adversario": "Vitória",
+     "placar": "0 x 3",
+     "resultado": "V"
     },
     {
      "data": "2026-10-28",
      "competicao": "Brasileirão Série A",
      "local": "casa",
-     "adversario": "Botafogo",
+     "adversario": "Internacional",
      "placar": "2 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "Brasileirão Série A",
+     "local": "fora",
+     "adversario": "Chapecoense",
+     "placar": "2 x 1",
+     "resultado": "D"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "Brasileirão Série A",
+     "local": "fora",
+     "adversario": "Chapecoense",
+     "placar": "1 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-18",
+     "competicao": "Brasileirão Série A",
+     "local": "casa",
+     "adversario": "Palmeiras",
+     "placar": "2 x 1",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-05",
+     "competicao": "Brasileirão Série A",
+     "local": "casa",
+     "adversario": "Bahia",
+     "placar": "3 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-29",
+     "competicao": "Brasileirão Série A",
+     "local": "fora",
+     "adversario": "Atlético Mineiro",
+     "placar": "0 x 1",
      "resultado": "V"
     },
     {
      "data": "2026-10-23",
      "competicao": "Brasileirão Série A",
-     "local": "fora",
-     "adversario": "Cruzeiro",
+     "local": "casa",
+     "adversario": "Remo",
      "placar": "1 x 0",
-     "resultado": "D"
+     "resultado": "V"
     }
    ],
    "confronto_direto": [
     {
      "data": "2026-06-01",
      "liga": "Serie A",
-     "mandante": "Remo",
-     "visitante": "São Paulo",
-     "placar": "1 x 0"
+     "mandante": "Cruzeiro",
+     "visitante": "Fluminense",
+     "placar": "1 x 1"
     },
     {
      "data": "2026-05-31",
      "liga": "Brasileirão Série A",
-     "mandante": "Remo",
-     "visitante": "São Paulo",
+     "mandante": "Cruzeiro",
+     "visitante": "Fluminense",
+     "placar": "1 x 1"
+    },
+    {
+     "data": "2025-11-09",
+     "liga": "Serie A",
+     "mandante": "Cruzeiro",
+     "visitante": "Fluminense",
+     "placar": "0 x 0"
+    },
+    {
+     "data": "2025-07-17",
+     "liga": "Serie A",
+     "mandante": "Fluminense",
+     "visitante": "Cruzeiro",
+     "placar": "0 x 2"
+    },
+    {
+     "data": "2024-10-04",
+     "liga": "Serie A",
+     "mandante": "Fluminense",
+     "visitante": "Cruzeiro",
      "placar": "1 x 0"
+    }
+   ]
+  },
+  {
+   "hora_brasilia": "22:00",
+   "competicao": "MLS",
+   "mandante": "Columbus Crew",
+   "visitante": "Inter Miami CF",
+   "status": "scheduled",
+   "rodada": null,
+   "match_id": "mt_735707633",
+   "data_hora_utc": "2026-11-28T01:00:00Z",
+   "ultimos_jogos_mandante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "MLS",
+     "local": "fora",
+     "adversario": "Inter Miami CF",
+     "placar": "0 x 3",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "MLS",
+     "local": "fora",
+     "adversario": "Chicago Fire",
+     "placar": "3 x 4",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-31",
+     "competicao": "MLS",
+     "local": "casa",
+     "adversario": "DC United",
+     "placar": "3 x 0",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-28",
+     "competicao": "MLS",
+     "local": "fora",
+     "adversario": "FC Dallas",
+     "placar": "0 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "MLS",
+     "local": "casa",
+     "adversario": "Toronto FC",
+     "placar": "4 x 2",
+     "resultado": "V"
+    }
+   ],
+   "ultimos_jogos_visitante": [
+    {
+     "data": "2026-11-21",
+     "competicao": "MLS",
+     "local": "casa",
+     "adversario": "Columbus Crew",
+     "placar": "0 x 3",
+     "resultado": "D"
+    },
+    {
+     "data": "2026-11-07",
+     "competicao": "MLS",
+     "local": "casa",
+     "adversario": "Charlotte FC",
+     "placar": "3 x 3",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-11-01",
+     "competicao": "MLS",
+     "local": "fora",
+     "adversario": "New England Revolution",
+     "placar": "1 x 2",
+     "resultado": "V"
+    },
+    {
+     "data": "2026-10-28",
+     "competicao": "MLS",
+     "local": "casa",
+     "adversario": "FC Cincinnati",
+     "placar": "2 x 2",
+     "resultado": "E"
+    },
+    {
+     "data": "2026-10-24",
+     "competicao": "MLS",
+     "local": "fora",
+     "adversario": "New York Red Bulls",
+     "placar": "2 x 0",
+     "resultado": "D"
+    }
+   ],
+   "confronto_direto": [
+    {
+     "data": "2026-11-21",
+     "liga": "MLS",
+     "mandante": "Inter Miami CF",
+     "visitante": "Columbus Crew",
+     "placar": "0 x 3"
+    },
+    {
+     "data": "2026-09-28",
+     "liga": "MLS",
+     "mandante": "Columbus Crew",
+     "visitante": "Inter Miami CF",
+     "placar": "2 x 1"
+    },
+    {
+     "data": "2026-09-27",
+     "liga": "MLS",
+     "mandante": "Columbus Crew",
+     "visitante": "Inter Miami CF",
+     "placar": "2 x 1"
+    },
+    {
+     "data": "2026-08-02",
+     "liga": "MLS",
+     "mandante": "Inter Miami CF",
+     "visitante": "Columbus Crew",
+     "placar": "2 x 2"
+    },
+    {
+     "data": "2026-08-01",
+     "liga": "MLS",
+     "mandante": "Inter Miami CF",
+     "visitante": "Columbus Crew",
+     "placar": "2 x 2"
     }
    ]
   }
  ],
  "resultados_ontem": [
   {
-   "hora_brasilia": "00:30",
-   "competicao": "MLS",
-   "mandante": "San Jose Earthquakes",
-   "gols_mandante": 2,
-   "gols_visitante": 1,
-   "visitante": "Houston Dynamo",
-   "placar": "2 x 1",
-   "match_id": "mt_023090520"
-  },
-  {
-   "hora_brasilia": "15:00",
-   "competicao": "Serie B",
-   "mandante": "Cremonese",
-   "gols_mandante": 0,
-   "gols_visitante": 1,
-   "visitante": "Avellino",
-   "placar": "0 x 1",
-   "match_id": "mt_895333985"
-  },
-  {
-   "hora_brasilia": "16:00",
-   "competicao": "Serie B",
-   "mandante": "Mantova",
-   "gols_mandante": 3,
-   "gols_visitante": 0,
-   "visitante": "Arezzo",
-   "placar": "3 x 0",
-   "match_id": "mt_206555021"
-  },
-  {
-   "hora_brasilia": "16:00",
-   "competicao": "Serie B",
-   "mandante": "Padova",
-   "gols_mandante": 1,
-   "gols_visitante": 2,
-   "visitante": "Sampdoria",
-   "placar": "1 x 2",
-   "match_id": "mt_981777899"
-  },
-  {
-   "hora_brasilia": "16:00",
-   "competicao": "Serie B",
-   "mandante": "Pisa",
-   "gols_mandante": 1,
-   "gols_visitante": 1,
-   "visitante": "Modena",
-   "placar": "1 x 1",
-   "match_id": "mt_024111478"
-  },
-  {
-   "hora_brasilia": "16:45",
-   "competicao": "Championship",
-   "mandante": "Bolton Wanderers",
-   "gols_mandante": 1,
-   "gols_visitante": 3,
-   "visitante": "West Bromwich Albion",
-   "placar": "1 x 3",
-   "match_id": "mt_155869000"
-  },
-  {
-   "hora_brasilia": "16:45",
-   "competicao": "Championship",
-   "mandante": "Burnley",
-   "gols_mandante": 0,
-   "gols_visitante": 2,
-   "visitante": "Birmingham City",
-   "placar": "0 x 2",
-   "match_id": "mt_200175667"
-  },
-  {
-   "hora_brasilia": "16:45",
-   "competicao": "Championship",
-   "mandante": "Watford",
-   "gols_mandante": 0,
-   "gols_visitante": 1,
-   "visitante": "Blackburn Rovers",
-   "placar": "0 x 1",
-   "match_id": "mt_466280789"
-  },
-  {
    "hora_brasilia": "17:00",
-   "competicao": "Championship",
-   "mandante": "Stoke City",
+   "competicao": "League One",
+   "mandante": "Doncaster Rovers",
    "gols_mandante": 2,
-   "gols_visitante": 1,
-   "visitante": "Millwall",
-   "placar": "2 x 1",
-   "match_id": "mt_511948229"
+   "gols_visitante": 3,
+   "visitante": "Huddersfield Town",
+   "placar": "2 x 3",
+   "match_id": "mt_155861091"
   },
   {
    "hora_brasilia": "20:00",
    "competicao": "Brasileirão Série A",
-   "mandante": "Atlético Mineiro",
-   "gols_mandante": 1,
+   "mandante": "São Paulo",
+   "gols_mandante": 3,
    "gols_visitante": 1,
-   "visitante": "Corinthians",
-   "placar": "1 x 1",
-   "match_id": "mt_028978233"
-  },
-  {
-   "hora_brasilia": "21:00",
-   "competicao": "Liga Profesional de Fútbol",
-   "mandante": "Boca Juniors",
-   "gols_mandante": 2,
-   "gols_visitante": 0,
-   "visitante": "Independiente Rivadavia",
-   "placar": "2 x 0",
-   "match_id": "mt_029770793"
+   "visitante": "Remo",
+   "placar": "3 x 1",
+   "match_id": "mt_153743579"
   }
  ]
 }

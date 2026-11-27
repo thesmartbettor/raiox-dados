@@ -744,7 +744,7 @@ mt_890939975,comp_0196,League One,sn_3014087,9,finished,2026-11-24T19:45:00Z,Bla
 mt_156559516,comp_0196,League One,sn_3014087,8,finished,2026-11-24T19:45:00Z,Stevenage,Sheffield Wednesday,tm_5749,tm_9685,0,0,1
 mt_371718620,comp_0196,League One,sn_3014087,8,finished,2026-11-24T19:45:00Z,Bradford City,Barnsley,tm_9715,tm_5840,3,0,1
 mt_023073532,comp_0196,League One,sn_3014087,9,finished,2026-11-24T19:45:00Z,Bromley,Wycombe Wanderers,tm_1994,tm_9495,1,1,1
-mt_155861091,comp_0196,League One,sn_3014087,17,scheduled,2026-11-26T20:00:00Z,Doncaster Rovers,Huddersfield Town,tm_0872,tm_7058,,,0
+mt_155861091,comp_0196,League One,sn_3014087,17,finished,2026-11-26T20:00:00Z,Doncaster Rovers,Huddersfield Town,tm_0872,tm_7058,2,3,1
 mt_022530422,comp_0196,League One,sn_3014087,17,scheduled,2026-11-28T12:30:00Z,Milton Keynes Dons,Notts County,tm_0469,tm_6527,,,0
 mt_377413872,comp_0196,League One,sn_3014087,17,scheduled,2026-11-28T12:30:00Z,Peterborough United,Cambridge United,tm_0976,tm_5960,,,0
 mt_733657946,comp_0196,League One,sn_3014087,17,scheduled,2026-11-28T15:00:00Z,AFC Wimbledon,Barnsley,tm_371423,tm_5840,,,0
@@ -22760,6 +22760,7 @@ mt_029770793,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11
 mt_984686312,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Rosario Central,Barracas Central,tm_38728,tm_8442265,,,0
 mt_513717923,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Vélez Sarsfield,CA Independiente,tm_85905,tm_79355,,,0
 mt_730294323,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Instituto De Córdoba,River Plate,tm_32231,tm_26071,,,0
+mt_730209262,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T23:30:00Z,Boca Juniors,Gimnasia y Esgrima,tm_91813,tm_47685,,,0
 mt_363867823,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-11T18:30:00Z,Aldosivi,Central Córdoba,tm_699356,tm_6118804,0,0,1
 mt_191095089,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-11T23:00:00Z,Talleres,San Lorenzo,tm_10567,tm_26068,1,2,1
 mt_979178131,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-12T19:00:00Z,Rosario Central,Godoy Cruz,tm_38728,tm_00100,1,1,1
@@ -27883,7 +27884,7 @@ mt_153743563,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-23T2
 mt_209839075,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-24T00:00:00Z,Santos,Grêmio,tm_83636,tm_66113,0,2,1
 mt_153743585,comp_4795,Brasileirão Série A,sn_8459352,37,finished,2026-11-24T21:00:00Z,Chapecoense,Palmeiras,tm_460410,tm_58387,3,0,1
 mt_028978233,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-25T23:00:00Z,Atlético Mineiro,Corinthians,tm_36272,tm_36208,1,1,1
-mt_153743579,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-26T23:00:00Z,São Paulo,Remo,tm_25869,tm_97432,,,0
+mt_153743579,comp_4795,Brasileirão Série A,sn_8459352,37,finished,2026-11-26T23:00:00Z,São Paulo,Remo,tm_25869,tm_97432,3,1,1
 mt_209839080,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-27T23:00:00Z,Fluminense,Cruzeiro,tm_25892,tm_01988,,,0
 mt_370250745,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-29T00:00:00Z,Botafogo,Bahia,tm_83640,tm_40150,,,0
 mt_028978299,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-29T19:00:00Z,Vitória,Santos,tm_97470,tm_83636,,,0
