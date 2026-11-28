@@ -4014,7 +4014,7 @@ mt_899632509,comp_0256,Ligue 1,sn_3011424,11,finished,2026-11-21T19:45:00Z,RC St
 mt_377265816,comp_0256,Ligue 1,sn_3011424,11,finished,2026-11-22T14:00:00Z,Paris FC,Angers,tm_11910,tm_01158,4,0,1
 mt_511386229,comp_0256,Ligue 1,sn_3011424,11,finished,2026-11-22T16:15:00Z,Lorient,Stade Rennais,tm_62238,tm_83353,1,1,1
 mt_022917440,comp_0256,Ligue 1,sn_3011424,11,finished,2026-11-22T19:45:00Z,Olympique de Marseille,Le Mans,tm_25550,tm_97723,2,3,1
-mt_988470123,comp_0256,Ligue 1,sn_3011424,12,scheduled,2026-11-27T19:45:00Z,Stade Brestois,Paris FC,tm_40658,tm_11910,,,0
+mt_988470123,comp_0256,Ligue 1,sn_3011424,12,finished,2026-11-27T19:45:00Z,Stade Brestois,Paris FC,tm_40658,tm_11910,1,0,1
 mt_155794066,comp_0256,Ligue 1,sn_3011424,12,scheduled,2026-11-28T16:15:00Z,Angers,RC Lens,tm_01158,tm_83394,,,0
 mt_511386245,comp_0256,Ligue 1,sn_3011424,12,scheduled,2026-11-28T19:45:00Z,Le Havre,RC Strasbourg,tm_97714,tm_74493,,,0
 mt_022917497,comp_0256,Ligue 1,sn_3011424,12,scheduled,2026-11-28T19:45:00Z,Le Mans,Lille,tm_97723,tm_58884,,,0
@@ -6841,8 +6841,8 @@ mt_377365128,comp_0406,2. Bundesliga,sn_6190936,12,finished,2026-11-21T19:30:00Z
 mt_022017302,comp_0406,2. Bundesliga,sn_6190936,12,finished,2026-11-22T12:30:00Z,1. FC Kaiserslautern,SG Dynamo Dresden,tm_46190,tm_46896,2,2,1
 mt_466409847,comp_0406,2. Bundesliga,sn_6190936,12,finished,2026-11-22T12:30:00Z,Karlsruher SC,VfL Osnabrück,tm_51223,tm_20611,0,0,1
 mt_377365203,comp_0406,2. Bundesliga,sn_6190936,12,finished,2026-11-22T12:30:00Z,Energie Cottbus,Hertha BSC,tm_98178,tm_89548,0,4,1
-mt_200253895,comp_0406,2. Bundesliga,sn_6190936,13,scheduled,2026-11-27T17:30:00Z,1. FC Heidenheim,1. FC Nürnberg,tm_44984,tm_51271,,,0
-mt_644628538,comp_0406,2. Bundesliga,sn_6190936,13,scheduled,2026-11-27T17:30:00Z,VfL Bochum 1848,Darmstadt 98,tm_98181,tm_64302,,,0
+mt_200253895,comp_0406,2. Bundesliga,sn_6190936,13,finished,2026-11-27T17:30:00Z,1. FC Heidenheim,1. FC Nürnberg,tm_44984,tm_51271,3,1,1
+mt_644628538,comp_0406,2. Bundesliga,sn_6190936,13,finished,2026-11-27T17:30:00Z,VfL Bochum 1848,Darmstadt 98,tm_98181,tm_64302,2,0,1
 mt_466409151,comp_0406,2. Bundesliga,sn_6190936,13,scheduled,2026-11-28T12:00:00Z,Hertha BSC,Karlsruher SC,tm_89548,tm_51223,,,0
 mt_511586313,comp_0406,2. Bundesliga,sn_6190936,13,scheduled,2026-11-28T12:00:00Z,SG Dynamo Dresden,FC St. Pauli,tm_46896,tm_64315,,,0
 mt_466409164,comp_0406,2. Bundesliga,sn_6190936,13,scheduled,2026-11-28T12:00:00Z,Holstein Kiel,1. FC Kaiserslautern,tm_51235,tm_46190,,,0
@@ -7963,7 +7963,7 @@ mt_200230852,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T17:30:00Z,Celt
 mt_200230863,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T17:30:00Z,Girona FC,Eibar,tm_029137,tm_73719,2,1,1
 mt_644684543,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-22T20:00:00Z,Burgos Club de Fútbol,Albacete Balompié,tm_02018,tm_89845,1,0,1
 mt_022072532,comp_0976,LaLiga 2,sn_1368511,15,finished,2026-11-23T19:30:00Z,AD Ceuta,Almería,tm_73736,tm_89830,2,3,1
-mt_200230151,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-27T19:30:00Z,Leganés,CE Sabadell,tm_46455,tm_461664,,,0
+mt_200230151,comp_0976,LaLiga 2,sn_1368511,16,finished,2026-11-27T19:30:00Z,Leganés,CE Sabadell,tm_46455,tm_461664,0,0,1
 mt_899829657,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-28T13:00:00Z,Las Palmas,FC Andorra,tm_305504,tm_2766781,,,0
 mt_644684539,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-28T15:15:00Z,Albacete Balompié,CD Tenerife,tm_89845,tm_98332,,,0
 mt_644684022,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-28T15:15:00Z,CD Eldense,Girona FC,tm_219292,tm_029137,,,0
@@ -7974,6 +7974,7 @@ mt_511561341,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-29T15:15:00Z,Mal
 mt_377357282,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-29T17:30:00Z,Cádiz,Córdoba,tm_86496,tm_15137,,,0
 mt_466496177,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-29T20:00:00Z,Almería,Sporting Gijón,tm_89830,tm_98969,,,0
 mt_733713097,comp_0976,LaLiga 2,sn_1368511,16,scheduled,2026-11-30T19:30:00Z,Real Oviedo,Celta Vigo B,tm_20291,tm_645438,,,0
+mt_733716306,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-05T13:00:00Z,Real Sociedad B,Leganés,tm_157577,tm_46455,,,0
 mt_988908427,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,Sporting Gijón,Granada,tm_98969,tm_752314,,,0
 mt_466496188,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,CE Sabadell,Eibar,tm_461664,tm_73719,,,0
 mt_899829608,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,CD Tenerife,CD Eldense,tm_98332,tm_219292,,,0
@@ -7984,7 +7985,6 @@ mt_511561916,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,Cel
 mt_466492616,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,AD Ceuta,Albacete Balompié,tm_73736,tm_89845,,,0
 mt_377354721,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,Girona FC,Real Valladolid,tm_029137,tm_20127,,,0
 mt_899827966,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,Córdoba,Las Palmas,tm_15137,tm_305504,,,0
-mt_733716306,comp_0976,LaLiga 2,sn_1368511,17,scheduled,2026-12-06T19:00:00Z,Real Sociedad B,Leganés,tm_157577,tm_46455,,,0
 mt_730145536,comp_0976,LaLiga 2,sn_1368511,13,scheduled,2026-12-09T20:00:00Z,CD Castellón,Eibar,tm_32315,tm_73719,,,0
 mt_896230084,comp_0976,LaLiga 2,sn_1368511,13,scheduled,2026-12-09T20:00:00Z,FC Andorra,Mallorca,tm_2766781,tm_64068,,,0
 mt_200230879,comp_0976,LaLiga 2,sn_1368511,18,scheduled,2026-12-13T19:00:00Z,Eibar,Sporting Gijón,tm_73719,tm_98969,,,0
@@ -15487,7 +15487,7 @@ mt_988360414,comp_3039,Premier League,sn_8406098,11,finished,2026-11-21T17:30:00
 mt_733621093,comp_3039,Premier League,sn_8406098,11,finished,2026-11-22T14:00:00Z,Hull City,Brighton & Hove Albion,tm_6115,tm_1552,2,0,1
 mt_155834700,comp_3039,Premier League,sn_8406098,11,finished,2026-11-22T16:30:00Z,Liverpool,Manchester United,tm_0406,tm_4643,4,0,1
 mt_644018538,comp_3039,Premier League,sn_8406098,11,finished,2026-11-23T20:00:00Z,Brentford,Everton,tm_1662,tm_8091,4,0,1
-mt_511976345,comp_3039,Premier League,sn_8406098,12,scheduled,2026-11-27T20:00:00Z,Nottingham Forest,Chelsea,tm_0836,tm_8531,,,0
+mt_511976345,comp_3039,Premier League,sn_8406098,12,finished,2026-11-27T20:00:00Z,Nottingham Forest,Chelsea,tm_0836,tm_8531,3,2,1
 mt_200193878,comp_3039,Premier League,sn_8406098,12,scheduled,2026-11-28T15:00:00Z,Leeds United,Coventry City,tm_0256,tm_2954,,,0
 mt_988360423,comp_3039,Premier League,sn_8406098,12,scheduled,2026-11-28T15:00:00Z,Manchester United,Brentford,tm_4643,tm_1662,,,0
 mt_155834766,comp_3039,Premier League,sn_8406098,12,scheduled,2026-11-28T17:30:00Z,Ipswich Town,Aston Villa,tm_9825,tm_1002,,,0
@@ -16297,7 +16297,7 @@ mt_644522882,comp_3809,Eredivisie,sn_5744954,13,finished,2026-11-22T11:15:00Z,FC
 mt_899633225,comp_3809,Eredivisie,sn_5744954,13,finished,2026-11-22T13:30:00Z,AFC Ajax,ADO Den Haag,tm_52627,tm_63899,3,0,1
 mt_899633240,comp_3809,Eredivisie,sn_5744954,13,finished,2026-11-22T13:30:00Z,Sparta Rotterdam,AZ Alkmaar,tm_10401,tm_10458,1,5,1
 mt_988477009,comp_3809,Eredivisie,sn_5744954,13,finished,2026-11-22T15:45:00Z,Go Ahead Eagles,Fortuna Sittard,tm_79161,tm_38581,0,1,1
-mt_200855331,comp_3809,Eredivisie,sn_5744954,14,scheduled,2026-11-27T19:00:00Z,FC Groningen,Willem II Tilburg,tm_26302,tm_26373,,,0
+mt_200855331,comp_3809,Eredivisie,sn_5744954,14,finished,2026-11-27T19:00:00Z,FC Groningen,Willem II Tilburg,tm_26302,tm_26373,1,1,1
 mt_466100950,comp_3809,Eredivisie,sn_5744954,14,scheduled,2026-11-28T15:30:00Z,Excelsior,SC Telstar,tm_38512,tm_91047,,,0
 mt_988477070,comp_3809,Eredivisie,sn_5744954,14,scheduled,2026-11-28T17:45:00Z,PSV Eindhoven,Go Ahead Eagles,tm_91010,tm_79161,,,0
 mt_200855303,comp_3809,Eredivisie,sn_5744954,14,scheduled,2026-11-28T20:00:00Z,SC Cambuur,Sparta Rotterdam,tm_10474,tm_10401,,,0
@@ -22757,9 +22757,9 @@ mt_735767345,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11
 mt_514595116,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11-23T01:00:00Z,Instituto De Córdoba,Huracán,tm_32231,tm_722920,2,1,1
 mt_156181536,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11-23T20:00:00Z,Gimnasia y Esgrima,Newell's Old Boys,tm_47685,tm_91829,2,2,1
 mt_029770793,comp_4540,Liga Profesional de Fútbol,sn_5721417,5,finished,2026-11-26T00:00:00Z,Boca Juniors,Independiente Rivadavia,tm_91813,tm_922132,2,0,1
-mt_984686312,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Rosario Central,Barracas Central,tm_38728,tm_8442265,,,0
-mt_513717923,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Vélez Sarsfield,CA Independiente,tm_85905,tm_79355,,,0
-mt_730294323,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T22:00:00Z,Instituto De Córdoba,River Plate,tm_32231,tm_26071,,,0
+mt_513717923,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-28T23:00:00Z,Vélez Sarsfield,CA Independiente,tm_85905,tm_79355,,,0
+mt_730294323,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T01:00:00Z,Instituto De Córdoba,River Plate,tm_32231,tm_26071,,,0
+mt_984686312,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T20:00:00Z,Rosario Central,Barracas Central,tm_38728,tm_8442265,,,0
 mt_730209262,comp_4540,Liga Profesional de Fútbol,sn_5721417,27,scheduled,2026-11-29T23:30:00Z,Boca Juniors,Gimnasia y Esgrima,tm_91813,tm_47685,,,0
 mt_363867823,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-11T18:30:00Z,Aldosivi,Central Córdoba,tm_699356,tm_6118804,0,0,1
 mt_191095089,comp_4540,Liga Profesional de Fútbol,sn_6120504,1,finished,2025-07-11T23:00:00Z,Talleres,San Lorenzo,tm_10567,tm_26068,1,2,1
@@ -23740,7 +23740,7 @@ mt_644620410,comp_4643,Bundesliga,sn_0835912,10,finished,2026-11-21T14:30:00Z,SV
 mt_733746342,comp_4643,Bundesliga,sn_0835912,10,finished,2026-11-21T17:30:00Z,FC Schalke 04,VfB Stuttgart,tm_15093,tm_37258,0,0,1
 mt_022015283,comp_4643,Bundesliga,sn_0835912,10,finished,2026-11-22T14:30:00Z,FC Augsburg,1. FSV Mainz 05,tm_15641,tm_64398,3,1,1
 mt_377364703,comp_4643,Bundesliga,sn_0835912,10,finished,2026-11-22T16:30:00Z,SV Werder Bremen,Hamburger SV,tm_02413,tm_64584,4,0,1
-mt_899837994,comp_4643,Bundesliga,sn_0835912,11,scheduled,2026-11-27T19:30:00Z,SV Werder Bremen,Borussia M'gladbach,tm_02413,tm_37804,,,0
+mt_899837994,comp_4643,Bundesliga,sn_0835912,11,finished,2026-11-27T19:30:00Z,SV Werder Bremen,Borussia M'gladbach,tm_02413,tm_37804,3,3,1
 mt_200251050,comp_4643,Bundesliga,sn_0835912,11,scheduled,2026-11-28T14:30:00Z,1. FC Köln,SV 07 Elversberg,tm_20721,tm_89026,,,0
 mt_988973871,comp_4643,Bundesliga,sn_0835912,11,scheduled,2026-11-28T14:30:00Z,Hamburger SV,FC Bayern München,tm_64584,tm_98299,,,0
 mt_511589184,comp_4643,Bundesliga,sn_0835912,11,scheduled,2026-11-28T14:30:00Z,1. FSV Mainz 05,1. FC Union Berlin,tm_64398,tm_37885,,,0
@@ -27885,7 +27885,7 @@ mt_209839075,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-24T0
 mt_153743585,comp_4795,Brasileirão Série A,sn_8459352,37,finished,2026-11-24T21:00:00Z,Chapecoense,Palmeiras,tm_460410,tm_58387,3,0,1
 mt_028978233,comp_4795,Brasileirão Série A,sn_8459352,36,finished,2026-11-25T23:00:00Z,Atlético Mineiro,Corinthians,tm_36272,tm_36208,1,1,1
 mt_153743579,comp_4795,Brasileirão Série A,sn_8459352,37,finished,2026-11-26T23:00:00Z,São Paulo,Remo,tm_25869,tm_97432,3,1,1
-mt_209839080,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-27T23:00:00Z,Fluminense,Cruzeiro,tm_25892,tm_01988,,,0
+mt_209839080,comp_4795,Brasileirão Série A,sn_8459352,37,finished,2026-11-27T23:00:00Z,Fluminense,Cruzeiro,tm_25892,tm_01988,0,1,1
 mt_370250745,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-29T00:00:00Z,Botafogo,Bahia,tm_83640,tm_40150,,,0
 mt_028978299,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-29T19:00:00Z,Vitória,Santos,tm_97470,tm_83636,,,0
 mt_465195612,comp_4795,Brasileirão Série A,sn_8459352,37,scheduled,2026-11-29T19:00:00Z,Coritiba,Flamengo,tm_97417,tm_22917,,,0
@@ -33211,7 +33211,7 @@ mt_022357040,comp_5840,Serie A,sn_6199313,12,finished,2026-11-22T14:00:00Z,Sassu
 mt_899072809,comp_5840,Serie A,sn_6199313,12,finished,2026-11-22T17:00:00Z,Milan,Frosinone,tm_98476,tm_20175,5,1,1
 mt_899072853,comp_5840,Serie A,sn_6199313,12,finished,2026-11-22T19:45:00Z,Atalanta,Inter,tm_64513,tm_37262,4,4,1
 mt_511496529,comp_5840,Serie A,sn_6199313,12,finished,2026-11-23T19:45:00Z,Monza,Fiorentina,tm_73004,tm_51388,3,0,1
-mt_899072865,comp_5840,Serie A,sn_6199313,13,scheduled,2026-11-27T19:45:00Z,Venezia,Bologna,tm_89646,tm_46156,,,0
+mt_899072865,comp_5840,Serie A,sn_6199313,13,finished,2026-11-27T19:45:00Z,Venezia,Bologna,tm_89646,tm_46156,0,0,1
 mt_155684166,comp_5840,Serie A,sn_6199313,13,scheduled,2026-11-28T14:00:00Z,Frosinone,Parma,tm_20175,tm_15731,,,0
 mt_644908652,comp_5840,Serie A,sn_6199313,13,scheduled,2026-11-28T17:00:00Z,Torino,Lazio,tm_64529,tm_73047,,,0
 mt_200713278,comp_5840,Serie A,sn_6199313,13,scheduled,2026-11-28T19:45:00Z,Inter,Genoa,tm_37262,tm_51322,,,0
@@ -37212,7 +37212,7 @@ mt_155869000,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T19:45:00Z,
 mt_200175667,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T19:45:00Z,Burnley,Birmingham City,tm_6573,tm_7218,0,2,1
 mt_466280789,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T19:45:00Z,Watford,Blackburn Rovers,tm_0196,tm_6917,0,1,1
 mt_511948229,comp_8321,Championship,sn_3014533,17,finished,2026-11-25T20:00:00Z,Stoke City,Millwall,tm_7348,tm_4023,2,1,1
-mt_200175681,comp_8321,Championship,sn_3014533,18,scheduled,2026-11-27T20:00:00Z,Southampton,Middlesbrough,tm_4893,tm_6387,,,0
+mt_200175681,comp_8321,Championship,sn_3014533,18,finished,2026-11-27T20:00:00Z,Southampton,Middlesbrough,tm_4893,tm_6387,2,0,1
 mt_377416816,comp_8321,Championship,sn_3014533,18,scheduled,2026-11-28T12:30:00Z,Blackburn Rovers,Charlton Athletic,tm_6917,tm_3169,,,0
 mt_155869066,comp_8321,Championship,sn_3014533,18,scheduled,2026-11-28T12:30:00Z,Lincoln City,Wolverhampton,tm_9667,tm_5104,,,0
 mt_644092352,comp_8321,Championship,sn_3014533,18,scheduled,2026-11-28T12:30:00Z,Preston North End,Norwich City,tm_2504,tm_5188,,,0
@@ -42217,7 +42217,7 @@ mt_511541191,comp_8385,Liga Portugal Betclic,sn_6190962,11,finished,2026-11-08T1
 mt_466486628,comp_8385,Liga Portugal Betclic,sn_6190962,11,finished,2026-11-08T18:00:00Z,Vitória SC,FC Porto,tm_79223,tm_91602,1,2,1
 mt_899809967,comp_8385,Liga Portugal Betclic,sn_6190962,11,finished,2026-11-08T20:30:00Z,CF Estrela Amadora,Benfica,tm_47570,tm_63118,2,3,1
 mt_988928837,comp_8385,Liga Portugal Betclic,sn_6190962,11,finished,2026-11-08T20:30:00Z,Rio Ave,Sporting Braga,tm_63134,tm_79214,0,1,1
-mt_988928898,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-27T20:15:00Z,Marítimo,CD Nacional,tm_38000,tm_52779,,,0
+mt_988928898,comp_8385,Liga Portugal Betclic,sn_6190962,12,finished,2026-11-27T20:15:00Z,Marítimo,CD Nacional,tm_38000,tm_52779,1,2,1
 mt_733753371,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-28T15:30:00Z,FC Arouca,Rio Ave,tm_373760,tm_63134,,,0
 mt_511541152,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-28T15:30:00Z,Moreirense,Santa Clara,tm_04880,tm_26997,,,0
 mt_644694405,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-28T18:00:00Z,Académico Viseu FC,FC Alverca,tm_91673,tm_8932260,,,0
@@ -42226,10 +42226,10 @@ mt_200270025,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-29T
 mt_022032203,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-29T20:30:00Z,FC Porto,Sporting,tm_91602,tm_26936,,,0
 mt_155165513,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-30T20:15:00Z,Casa Pia,Sporting Braga,tm_487248,tm_79214,,,0
 mt_644694460,comp_8385,Liga Portugal Betclic,sn_6190962,12,scheduled,2026-11-30T20:15:00Z,Benfica,Famalicão,tm_63118,tm_216266,,,0
+mt_644694386,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-04T20:15:00Z,Sporting,Marítimo,tm_26936,tm_38000,,,0
 mt_511541264,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-05T15:30:00Z,CD Nacional,Benfica,tm_52779,tm_63118,,,0
 mt_466486792,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-05T18:00:00Z,Santa Clara,FC Porto,tm_26997,tm_91602,,,0
 mt_155165049,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-05T20:30:00Z,Sporting Braga,FC Arouca,tm_79214,tm_373760,,,0
-mt_644694386,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-06T11:00:00Z,Sporting,Marítimo,tm_26936,tm_38000,,,0
 mt_733753912,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-06T15:30:00Z,CF Estrela Amadora,Gil Vicente,tm_47570,tm_10330,,,0
 mt_022032479,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-06T15:30:00Z,Rio Ave,Casa Pia,tm_63134,tm_487248,,,0
 mt_200270630,comp_8385,Liga Portugal Betclic,sn_6190962,13,scheduled,2026-12-06T18:00:00Z,Estoril Praia,Vitória SC,tm_17364,tm_79223,,,0
@@ -44595,7 +44595,7 @@ mt_466210762,comp_8531,Pro League,sn_6195301,12,finished,2026-11-22T12:30:00Z,SK
 mt_022591429,comp_8531,Pro League,sn_6195301,12,finished,2026-11-22T15:00:00Z,KV Kortrijk,Royale Union Saint-Gilloise,tm_86087,tm_17744,0,1,1
 mt_377426885,comp_8531,Pro League,sn_6195301,12,finished,2026-11-22T17:30:00Z,RSC Anderlecht,Oud-Heverlee Leuven,tm_15189,tm_85223,1,0,1
 mt_644052346,comp_8531,Pro League,sn_6195301,12,finished,2026-11-22T18:15:00Z,Lommel SK,Standard Liège,tm_65625,tm_20210,1,2,1
-mt_644052351,comp_8531,Pro League,sn_6195301,13,scheduled,2026-11-27T19:45:00Z,Oud-Heverlee Leuven,KV Kortrijk,tm_85223,tm_86087,,,0
+mt_644052351,comp_8531,Pro League,sn_6195301,13,finished,2026-11-27T19:45:00Z,Oud-Heverlee Leuven,KV Kortrijk,tm_85223,tm_86087,2,2,1
 mt_022591457,comp_8531,Pro League,sn_6195301,13,scheduled,2026-11-28T15:00:00Z,KVC Westerlo,RAAL La Louvière,tm_51532,tm_6521331,,,0
 mt_200185688,comp_8531,Pro League,sn_6195301,13,scheduled,2026-11-28T17:15:00Z,Cercle Brugge,KV Mechelen,tm_79129,tm_09014,,,0
 mt_377426826,comp_8531,Pro League,sn_6195301,13,scheduled,2026-11-28T19:45:00Z,RC Sporting Charleroi,SK Beveren,tm_89872,tm_70577,,,0
@@ -47692,7 +47692,7 @@ mt_022075451,comp_8814,LaLiga,sn_8407970,13,finished,2026-11-22T15:15:00Z,Racing
 mt_377354841,comp_8814,LaLiga,sn_8407970,13,finished,2026-11-22T17:30:00Z,Osasuna,Málaga,tm_15885,tm_15810,1,0,1
 mt_466492726,comp_8814,LaLiga,sn_8407970,13,finished,2026-11-22T20:00:00Z,Getafe,Atlético Madrid,tm_73740,tm_64681,0,3,1
 mt_899827576,comp_8814,LaLiga,sn_8407970,13,finished,2026-11-23T20:00:00Z,Levante UD,Elche,tm_73725,tm_64612,1,1,1
-mt_377354832,comp_8814,LaLiga,sn_8407970,14,scheduled,2026-11-27T20:00:00Z,Levante UD,Racing de Santander,tm_73725,tm_46499,,,0
+mt_377354832,comp_8814,LaLiga,sn_8407970,14,finished,2026-11-27T20:00:00Z,Levante UD,Racing de Santander,tm_73725,tm_46499,1,3,1
 mt_155148081,comp_8814,LaLiga,sn_8407970,14,scheduled,2026-11-28T13:00:00Z,Real Betis,Rayo Vallecano,tm_64056,tm_89774,,,0
 mt_899827587,comp_8814,LaLiga,sn_8407970,14,scheduled,2026-11-28T15:15:00Z,Málaga,Athletic Club,tm_15810,tm_46224,,,0
 mt_644680369,comp_8814,LaLiga,sn_8407970,14,scheduled,2026-11-28T17:30:00Z,Elche,Atlético Madrid,tm_64612,tm_64681,,,0
@@ -47704,6 +47704,7 @@ mt_733762493,comp_8814,LaLiga,sn_8407970,14,scheduled,2026-11-29T20:00:00Z,Real 
 mt_988903196,comp_8814,LaLiga,sn_8407970,14,scheduled,2026-11-30T20:00:00Z,Espanyol,Getafe,tm_02599,tm_73740,,,0
 mt_022058245,comp_8814,LaLiga,sn_8407970,23,scheduled,2026-12-02T18:00:00Z,Real Sociedad,Real Madrid,tm_02555,tm_73673,,,0
 mt_899874954,comp_8814,LaLiga,sn_8407970,23,scheduled,2026-12-02T20:30:00Z,Barcelona,Atlético Madrid,tm_37445,tm_64681,,,0
+mt_466425089,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-04T20:00:00Z,Deportivo Alavés,Espanyol,tm_46488,tm_02599,,,0
 mt_022058158,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-05T13:00:00Z,Racing de Santander,Deportivo La Coruña,tm_46499,tm_98394,,,0
 mt_899874370,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-05T15:15:00Z,Rayo Vallecano,Levante UD,tm_89774,tm_73725,,,0
 mt_022058101,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-05T17:30:00Z,Villarreal,Real Sociedad,tm_73664,tm_02555,,,0
@@ -47711,7 +47712,6 @@ mt_022058197,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-05T20:00:00Z,Barce
 mt_200219581,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-06T13:00:00Z,Osasuna,Elche,tm_15885,tm_64612,,,0
 mt_899874309,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-06T15:15:00Z,Athletic Club,Real Madrid,tm_46224,tm_73673,,,0
 mt_899874365,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-06T17:30:00Z,Getafe,Valencia,tm_73740,tm_89783,,,0
-mt_466425089,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-06T19:00:00Z,Deportivo Alavés,Espanyol,tm_46488,tm_02599,,,0
 mt_200219578,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-06T20:00:00Z,Atlético Madrid,Real Betis,tm_64681,tm_64056,,,0
 mt_200219512,comp_8814,LaLiga,sn_8407970,15,scheduled,2026-12-07T20:00:00Z,Sevilla,Málaga,tm_51959,tm_15810,,,0
 mt_466492752,comp_8814,LaLiga,sn_8407970,8,cancelled,2026-12-09T19:00:00Z,Rayo Vallecano,Athletic Club,tm_89774,tm_46224,,,0
@@ -48564,8 +48564,8 @@ mt_150435691,comp_9235,Trendyol Süper Lig,sn_1361088,12,finished,2026-11-22T13:
 mt_643821080,comp_9235,Trendyol Süper Lig,sn_1361088,12,finished,2026-11-22T13:00:00Z,Kasımpaşa,Alanyaspor,tm_55893,tm_99419,2,1,1
 mt_512687962,comp_9235,Trendyol Süper Lig,sn_1361088,12,finished,2026-11-22T16:00:00Z,Trabzonspor,Eyüpspor,tm_26983,tm_134619,1,0,1
 mt_467905291,comp_9235,Trendyol Süper Lig,sn_1361088,12,finished,2026-11-23T17:00:00Z,Başakşehir FK,Çorum FK,tm_63286,tm_7246939,4,2,1
-mt_981068286,comp_9235,Trendyol Süper Lig,sn_1361088,13,scheduled,2026-11-27T17:00:00Z,Çaykur Rizespor,Kasımpaşa,tm_04854,tm_55893,,,0
-mt_512671418,comp_9235,Trendyol Süper Lig,sn_1361088,13,scheduled,2026-11-27T17:00:00Z,Alanyaspor,Konyaspor,tm_99419,tm_47092,,,0
+mt_981068286,comp_9235,Trendyol Süper Lig,sn_1361088,13,finished,2026-11-27T17:00:00Z,Çaykur Rizespor,Kasımpaşa,tm_04854,tm_55893,3,2,1
+mt_512671418,comp_9235,Trendyol Süper Lig,sn_1361088,13,finished,2026-11-27T17:00:00Z,Alanyaspor,Konyaspor,tm_99419,tm_47092,1,2,1
 mt_206390769,comp_9235,Trendyol Süper Lig,sn_1361088,13,scheduled,2026-11-28T13:00:00Z,Samsunspor,Gençlerbirliği,tm_52738,tm_966479,,,0
 mt_643814524,comp_9235,Trendyol Süper Lig,sn_1361088,13,scheduled,2026-11-28T16:00:00Z,Gaziantep FK,Amed Sportif Faaliyetler,tm_87298,tm_2066285,,,0
 mt_150435604,comp_9235,Trendyol Süper Lig,sn_1361088,13,scheduled,2026-11-29T10:30:00Z,Çorum FK,Kocaelispor,tm_7246939,tm_47528,,,0
@@ -55683,8 +55683,8 @@ mt_890868793,comp_9799,MLS,sn_8454787,,finished,2026-11-22T23:30:00Z,Chicago Fir
 mt_461917197,comp_9799,MLS,sn_8454787,,finished,2026-11-23T01:30:00Z,Vancouver Whitecaps,Real Salt Lake,tm_155376,tm_59611,2,0,1
 mt_371323486,comp_9799,MLS,sn_8454787,,finished,2026-11-24T01:15:00Z,St.Louis City,Los Angeles FC,tm_5357142,tm_1068777,3,2,1
 mt_023090520,comp_9799,MLS,sn_8454787,,finished,2026-11-25T03:30:00Z,San Jose Earthquakes,Houston Dynamo,tm_460479,tm_89986,2,1,1
-mt_735707633,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T01:00:00Z,Columbus Crew,Inter Miami CF,tm_02201,tm_9241098,,,0
-mt_029794972,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T03:00:00Z,Real Salt Lake,Vancouver Whitecaps,tm_59611,tm_155376,,,0
+mt_735707633,comp_9799,MLS,sn_8454787,,finished,2026-11-28T01:00:00Z,Columbus Crew,Inter Miami CF,tm_02201,tm_9241098,1,0,1
+mt_029794972,comp_9799,MLS,sn_8454787,,finished,2026-11-28T03:15:00Z,Real Salt Lake,Vancouver Whitecaps,tm_59611,tm_155376,0,1,1
 mt_207282107,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T17:30:00Z,Charlotte FC,Chicago Fire,tm_8670388,tm_46646,,,0
 mt_982949384,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T19:30:00Z,Houston Dynamo,San Jose Earthquakes,tm_89986,tm_460479,,,0
 mt_468414279,comp_9799,MLS,sn_8454787,,scheduled,2026-11-28T21:30:00Z,Philadelphia Union,New England Revolution,tm_536435,tm_20633,,,0

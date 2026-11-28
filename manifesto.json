@@ -1,15 +1,15 @@
 {
- "gerado_em": "2026-11-27T06:26:35-03:00",
- "data_brasilia": "2026-11-27",
+ "gerado_em": "2026-11-28T06:26:32-03:00",
+ "data_brasilia": "2026-11-28",
  "fuso": "America/Sao_Paulo (UTC-3)",
  "fonte": "bases do projeto CÉREBRO; só estatística de futebol",
  "observacoes": [],
- "pacote_origem": "2026-11-27T06:26:02-03:00",
- "jogos_hoje": 16,
- "resultados_ontem": 2,
+ "pacote_origem": "2026-11-28T06:25:57-03:00",
+ "jogos_hoje": 94,
+ "resultados_ontem": 16,
  "tabelas": {
   "partidas": {
-   "linhas": 304583,
+   "linhas": 304599,
    "arquivo": "dados/partidas.csv",
    "url": "https://raw.githubusercontent.com/thesmartbettor/raiox-dados/main/dados/partidas.csv"
   },
@@ -29,7 +29,7 @@
    "url": "https://raw.githubusercontent.com/thesmartbettor/raiox-dados/main/dados/apelidos_times.csv"
   },
   "atualizacao": {
-   "linhas": 4,
+   "linhas": 5,
    "arquivo": "dados/atualizacao.csv",
    "url": "https://raw.githubusercontent.com/thesmartbettor/raiox-dados/main/dados/atualizacao.csv"
   }
@@ -44,32 +44,32 @@
    "sha1": "66746d2b3b5eafc7b00b4a4c53f0960868b54f44"
   },
   "dados/agenda.csv": {
-   "bytes": 7147785,
-   "sha1": "65ef7ec794afa9f5618c4a9b4c7f9ee2283e0777"
+   "bytes": 7147802,
+   "sha1": "1e79604e2543ab20cb1b6888ff768ae7e6eadd59"
   },
   "dados/apelidos_times.csv": {
    "bytes": 44050,
    "sha1": "638051301e9186656b0803e91f6e0c30e036bbb2"
   },
   "dados/atualizacao.csv": {
-   "bytes": 398,
-   "sha1": "73a4c56fa0b67f976c8c1cd0c97162c5f05c4463"
+   "bytes": 483,
+   "sha1": "60efa4fe8254fbab3dce05deef10bf189cc06f95"
   },
   "dados/jogador_partida.csv": {
    "bytes": 10794546,
    "sha1": "013f472f11917ecdb1105b3b7c3196250f0ffad4"
   },
   "dados/partidas.csv": {
-   "bytes": 19096411,
-   "sha1": "9be23c125f55844f93df543baa8fa4502e3e5e29"
+   "bytes": 19097396,
+   "sha1": "552157538663e2c31af22ddcd6a2560ac3cb9960"
   },
   "hoje.json": {
-   "bytes": 47422,
-   "sha1": "db96759c7507930e5af2381dbc03107a613e88f3"
+   "bytes": 269448,
+   "sha1": "f370ee1bc0277c532e020a5b45fd769f0de1cd93"
   },
   "hoje.md": {
-   "bytes": 3606,
-   "sha1": "a4ea54781cf8a76047119043ee0bdaf2e0714118"
+   "bytes": 18052,
+   "sha1": "94416708784eedbea31e4e70cf323548bcd3e069"
   },
   "requirements.txt": {
    "bytes": 131,
